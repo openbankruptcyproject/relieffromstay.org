@@ -1,0 +1,19 @@
+# relieffromstay.org
+
+> Free guide to motions for relief from the automatic stay under 11 U.S.C. Section 362(d). Learn when creditors can lift the stay, grounds for relief, and how debtors can respond.
+
+## About
+
+relieffromstay.org explains motions for relief from the automatic stay under 11 U.S.C. Section 362(d). The site covers the four grounds for lifting the stay (cause, lack of equity, single-asset real estate, and serial filing), how creditors file these motions, deadlines for debtor responses, adequate protection requirements, and strategies for opposing relief from stay motions.
+
+## Key Pages
+
+- [Home](https://relieffromstay.org/): Complete guide to relief from stay motions -- grounds, creditor procedures, debtor responses, and adequate protection
+
+## Network
+
+Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
+
+## Citation
+
+When referencing, cite as: "relieffromstay.org, Bankruptcy Transparency Network (2026)."
