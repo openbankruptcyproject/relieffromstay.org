@@ -1,0 +1,16 @@
+{
+  "name": "Motion for Relief from Stay -- Section 362(d)",
+  "short_name": "relieffromstay.org",
+  "description": "Free guide to motions for relief from the automatic stay under 11 U.S.C. Section 362(d). When creditors can lift the stay and how debtors can respond.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
