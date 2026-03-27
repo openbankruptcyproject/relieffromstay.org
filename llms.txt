@@ -2,7 +2,7 @@
 
 > Guide to motions for relief from the automatic stay in bankruptcy.
 
-relieffromstay.org is a free, open-source educational resource about relief from stay motions under 11 U.S.C. Section 362(d). Part of the Bankruptcy Transparency Network.
+relieffromstay.org is a free, open-source educational resource about relief from stay motions under 11 U.S.C. Section 362(d). Part of the Open Bankruptcy Project.
 
 ## Pages
 
