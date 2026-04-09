@@ -1,0 +1,2905 @@
+# relieffromstay.org -- Full Content
+
+This file contains the full text content of all pages on relieffromstay.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Adequate Protection Payments in Bankruptcy
+Source: https://relieffromstay.org/adequate-protection.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+Adequate Protection Payments in Bankruptcy
+
+Section 361 defines how debtors protect creditors' collateral value during bankruptcy -- the key to keeping the automatic stay in place and defeating motions for relief.
+
+Home » Relief from Stay » Adequate Protection
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+What Is Adequate Protection?
+
+Adequate protection is one of the most important concepts in bankruptcy law. Under 11 U.S.C. Section 361, it is the mechanism that protects a secured creditor's interest in its collateral while the automatic stay prevents the creditor from exercising its normal remedies.
+
+The basic principle is fairness: the automatic stay benefits the debtor by halting collection activity, but it should not unfairly harm the creditor by allowing the collateral to lose value without compensation. Adequate protection bridges that gap. If the debtor provides adequate protection, the stay remains in place. If the debtor cannot or will not provide it, the creditor can obtain relief from stay under Section 362(d)(1).
+
+Adequate protection comes into play in several contexts: motions for relief from stay, use of cash collateral in Chapter 11, and the debtor's use, sale, or lease of property under Section 363. In every context, the purpose is the same -- ensure the creditor is not worse off because of the bankruptcy than it would be without it.
+
+Three Statutory Forms of Adequate Protection
+
+Section 361 lists three forms that adequate protection can take:
+
+1. Periodic Cash Payments -- Section 361(1)
+
+The most common form. The debtor makes regular payments to the creditor to offset any decrease in the value of the creditor's interest. For a depreciating asset like a vehicle, this typically means monthly payments covering interest plus depreciation. For real property, it usually means making the regular mortgage payment.
+
+The payments must be sufficient to compensate for the actual decline in value, not just a token amount. Courts look at the rate of depreciation, the interest accruing on the claim, and whether the debtor is maintaining insurance and preserving the property.
+
+2. Additional or Replacement Lien -- Section 361(2)
+
+The debtor grants the creditor a lien on additional or replacement property to offset any decrease in the value of the original collateral. This is less common than cash payments but can be useful when the debtor has unencumbered assets available. For example, a business debtor whose equipment is depreciating might offer the creditor a lien on accounts receivable or inventory.
+
+The replacement lien must have real value. Courts will not accept a lien on assets that are already fully encumbered or that have no meaningful value.
+
+3. Other Relief -- Section 361(3)
+
+A catch-all provision allowing any other form of protection that provides the creditor with the "indubitable equivalent" of its interest in the property. This phrase, borrowed from Judge Learned Hand's opinion in In re Murel Holding Corp., 75 F.2d 941 (2d Cir. 1935), sets a high standard. The protection must be so certain and reliable that there is no reasonable doubt the creditor's interest is preserved.
+
+Examples include equity cushions (the property is worth significantly more than the debt, providing a buffer against depreciation), personal guarantees, and letters of credit.
+
+What adequate protection is NOT: Section 361(3) specifically provides that adequate protection cannot take the form of an administrative expense claim under Section 503(b)(1). The debtor cannot simply promise to pay the creditor at the end of the case. The protection must be tangible and current.
+
+Calculating Adequate Protection Payments
+
+The amount of adequate protection depends on the type of collateral and the specific facts of the case. Courts generally consider these factors:
+
+For Vehicles
+
+Monthly depreciation -- The decline in value based on the vehicle's age, make, model, and mileage. A newer vehicle depreciates faster in dollar terms.
+
+Interest on the claim -- The contractual or market interest rate applied to the outstanding loan balance.
+
+Insurance -- The debtor must maintain comprehensive and collision insurance. Failure to insure is itself grounds for relief from stay.
+
+In practice, many courts simply require the debtor to make the regular contractual car payment as adequate protection. This is a practical approximation that avoids complex depreciation calculations.
+
+For Real Property (Mortgages)
+
+Regular monthly payment -- For a mortgage, adequate protection typically means making the regular monthly payment (principal, interest, taxes, and insurance -- PITI).
+
+Property maintenance -- The debtor must maintain the property in reasonable condition. Allowing the property to fall into disrepair reduces its value and can constitute a failure of adequate protection.
+
+Insurance and taxes -- The debtor must keep hazard insurance current and pay property taxes (or escrow them into the payment).
+
+For Business Equipment
+
+Depreciation rate -- Business equipment may depreciate at different rates depending on use, industry standards, and the equipment's remaining useful life.
+
+Maintenance and insurance -- The debtor must maintain and insure the equipment.
+
+Revenue generation -- If the equipment is producing income that will fund plan payments, this factor weighs in favor of finding adequate protection.
+
+The equity cushion: If the property is worth significantly more than the debt, the excess equity itself may provide adequate protection. For example, if a home is worth $300,000 and the mortgage balance is $200,000, the $100,000 equity cushion protects the lender against some depreciation even without monthly payments. The size of the cushion required varies by jurisdiction, but a substantial equity cushion can defeat a relief from stay motion on its own.
+
+When Adequate Protection Is Required
+
+Adequate protection obligations arise in several specific contexts:
+
+To prevent relief from stay -- The most common context. Under Section 362(d)(1), "lack of adequate protection" is the primary example of "cause" for lifting the stay. If you are providing adequate protection, the creditor's motion should fail.
+
+Use of cash collateral -- In Chapter 11, the debtor must provide adequate protection to use cash collateral (Section 363(c)(2)). Cash collateral includes bank accounts, rents, and proceeds from collateral.
+
+Use, sale, or lease of property -- Under Section 363(e), any party with an interest in property can request adequate protection as a condition of the debtor's use of that property.
+
+Chapter 13 plan confirmation -- Under Section 1325(a)(5)(B), the debtor's plan must provide adequate protection of each secured creditor's interest as a condition of confirmation.
+
+Failure of Adequate Protection
+
+If the debtor fails to provide adequate protection, the consequences can be severe:
+
+Relief from stay granted -- The creditor can repossess, foreclose, or otherwise enforce its lien.
+
+Superpriority claim -- Under Section 507(b), if adequate protection proves inadequate (the creditor's collateral declines in value despite adequate protection payments), the creditor receives a superpriority administrative expense claim. This claim has priority over all other administrative expenses, including attorney fees and trustee commissions.
+
+Loss of the asset -- In practical terms, failing to provide adequate protection almost always results in losing the collateral, which can derail a Chapter 13 plan or Chapter 11 reorganization.
+
+The superpriority trap: If the court orders adequate protection and the collateral still loses value, the creditor gets a Section 507(b) superpriority claim for the shortfall. This claim jumps ahead of all other administrative expenses in the case. In Chapter 11, this can consume estate assets that would otherwise fund the reorganization.
+
+Frequently Asked Questions
+
+What is adequate protection in bankruptcy?
+
+Adequate protection under 11 U.S.C. Section 361 is the mechanism that protects a secured creditor's interest in collateral during a bankruptcy case. It compensates the creditor for any decrease in the value of their collateral caused by the automatic stay. The three statutory forms are periodic cash payments, additional or replacement liens, and other relief providing the indubitable equivalent of the creditor's interest.
+
+How much are adequate protection payments for a car?
+
+For a vehicle, adequate protection payments typically equal the monthly depreciation of the vehicle plus interest accruing on the loan. In practice, many courts simply require the debtor to make the regular contractual car payment. The exact amount depends on the vehicle's age, mileage, condition, and the interest rate on the loan. Maintaining insurance on the vehicle is also considered part of adequate protection.
+
+What happens if I stop making adequate protection payments?
+
+If you fail to make adequate protection payments, the creditor can file a motion for relief from stay under Section 362(d)(1), arguing that its interest is no longer adequately protected. Courts routinely grant these motions when the debtor has stopped making payments. If a consent order already requires adequate protection payments, the creditor may be able to act without a new hearing by invoking the automatic relief provision in the consent order.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Motion for Relief from Stay -- Car Repossession
+Source: https://relieffromstay.org/car-repo.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+Relief from Stay -- Car Repossession
+
+When your car lender asks the bankruptcy court for permission to repossess your vehicle -- what to expect, how to fight it, and what happens if you lose.
+
+Home » Relief from Stay » Car Repossession
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+Why Car Lenders File for Relief from Stay
+
+Vehicles are the most common subject of relief from stay motions after real estate. Car lenders have a particular incentive to act quickly: unlike homes, vehicles depreciate rapidly. Every month the bankruptcy case continues, the lender's collateral loses value. That built-in decline gives lenders a strong argument under Section 362(d)(1) that their interest is not adequately protected.
+
+The automatic stay prevents repossession from the moment you file bankruptcy. But the stay is not a permanent shield. If you stop making payments, let insurance lapse, or fail to maintain the vehicle, the lender will almost certainly file a motion asking the court to lift the stay and allow repossession.
+
+Car lenders tend to move faster than mortgage companies. Whereas a mortgage lender might wait months before filing a motion, car lenders often file within weeks of a missed post-petition payment. The combination of rapid depreciation and relatively low loan balances makes it economical for them to litigate quickly.
+
+Common Grounds for Relief
+
+Car lenders typically rely on one or both of the primary grounds under Section 362(d):
+
+362(d)(1) -- For Cause (Lack of Adequate Protection)
+
+This is the most common argument. The lender claims that its interest in the vehicle is declining because of depreciation, and the debtor is not making payments or otherwise protecting the lender's position. Specific grounds include:
+
+Missed post-petition payments -- The debtor has not made car payments since filing bankruptcy.
+
+No insurance -- The debtor has let auto insurance lapse, leaving the collateral unprotected against damage or total loss.
+
+Depreciation without compensation -- The vehicle is losing value every month, and the lender is receiving nothing to offset that decline.
+
+Vehicle damage or excessive mileage -- The debtor is damaging the collateral or putting extraordinary miles on it, accelerating depreciation beyond normal levels.
+
+362(d)(2) -- No Equity and Not Necessary for Reorganization
+
+The lender can also argue that the debtor has no equity in the vehicle (the loan balance exceeds the car's value) and the vehicle is not necessary for an effective reorganization. However, this second ground is difficult for the lender to win in Chapter 13. Most debtors can show that a vehicle is essential for getting to work, which makes it necessary for reorganization. In Chapter 7, where there is no reorganization, this ground is stronger for the lender.
+
+Practical note: Many car lenders file motions citing both 362(d)(1) and 362(d)(2) simultaneously. They argue lack of adequate protection as the primary ground and lack of equity as the backup. Preparing defenses for both grounds is essential.
+
+How to Defend Against a Car Repossession Motion
+
+The good news: debtors win stay motions involving vehicles regularly, especially in Chapter 13. The key is to respond promptly and offer concrete protection for the lender's interest.
+
+Offer Adequate Protection Payments
+
+The single most effective defense is to offer adequate protection. For a vehicle, this typically means making monthly payments equal to the regular contractual car payment. Some courts require only enough to cover interest plus depreciation, which may be less than the full payment. Either way, showing the court that you are willing and able to protect the lender's collateral value is your strongest argument.
+
+Demonstrate the Vehicle Is Essential
+
+In Chapter 13, argue that the vehicle is necessary for an effective reorganization. If you need the car to commute to work, to transport children, or to run a business that generates income for the plan, the court is unlikely to allow repossession. Be specific -- tell the court exactly how far your commute is, whether public transportation is available, and what would happen to your plan if the vehicle were repossessed.
+
+Show Current Insurance
+
+If the lender's motion is based on lack of insurance, obtain insurance immediately and provide proof at the hearing. Courts are generally forgiving of temporary insurance lapses if the debtor has since corrected the problem.
+
+Propose a Chapter 13 Cramdown
+
+In Chapter 13, Section 1325(a) allows the debtor to modify car loan terms through the plan. If you purchased the vehicle more than 910 days before filing (the "910-day rule" or "hanging paragraph"), you can cram down the loan to the vehicle's current fair market value, potentially reducing both the principal and interest rate. A confirmed plan that provides for paying the car loan protects the lender's interest and defeats the motion.
+
+Challenge the Lender's Evidence
+
+Review the lender's motion carefully. Is the payment history accurate? Has the lender properly credited all payments you have made? Is the stated loan balance correct? Lenders sometimes overstate arrearage amounts or fail to account for payments received. Challenge any inaccuracies.
+
+What Happens If Relief Is Granted
+
+If the court grants the motion for relief from stay on your vehicle, the lender can proceed with repossession under state law. The timeline depends on your state's repossession procedures, but it can happen quickly -- sometimes within days of the court's order.
+
+Immediate Consequences
+
+The lender can repossess the vehicle without further court action.
+
+Self-help repossession (taking the car from your driveway or a parking lot) is generally permitted under state law, as long as there is no breach of the peace.
+
+The lender can sell the vehicle at auction and apply the proceeds to the loan balance.
+
+If the sale proceeds do not cover the full loan balance, the remaining amount becomes an unsecured deficiency claim in your bankruptcy case.
+
+Effect on Your Bankruptcy Case
+
+Losing a vehicle does not end your bankruptcy case. In Chapter 7, the discharge of other debts still proceeds normally, and the deficiency balance on the car loan may be dischargeable. In Chapter 13, losing a critical vehicle can jeopardize your ability to complete the plan if you need the car for work. You may need to modify your plan or find alternative transportation.
+
+Act before the hearing. If you know you are behind on car payments, do not wait for the lender to file a motion. Contact the lender proactively, propose adequate protection payments, and get current if possible. Once the motion is filed, you are on the defensive.
+
+Emergency and Ex Parte Motions
+
+In some situations, a car lender can obtain relief from stay on an expedited basis under Section 362(f). This provision allows the court to grant relief without a full hearing if the creditor demonstrates that its interest in property will suffer "irreparable damage" before there is an opportunity for a hearing.
+
+Emergency motions are relatively rare for routine missed payments. They are more common when:
+
+The debtor is actively damaging or stripping the vehicle
+
+The debtor is hiding the vehicle from the lender
+
+The vehicle is uninsured and at risk of total loss
+
+The debtor is using the vehicle for illegal purposes
+
+If you receive notice of an emergency motion, take it seriously. The court may rule within days -- or even hours. Respond immediately, appear at any hearing, and offer to cure whatever issue the lender has raised.
+
+Alternatives: Reaffirmation and Surrender
+
+In Chapter 7, a relief from stay motion on a vehicle often signals that the debtor needs to make a choice: reaffirm the debt or surrender the vehicle.
+
+Reaffirmation
+
+A reaffirmation agreement is a new contract between the debtor and the lender that survives the bankruptcy discharge. By reaffirming, you agree to keep paying the car loan under its original terms (or modified terms), and the lender agrees not to repossess as long as you stay current. The risk: if you default after discharge, the lender can repossess and pursue you for any deficiency, since the debt was not discharged.
+
+Surrender
+
+If the vehicle is worth significantly less than the loan balance, surrender may be the better option. You return the vehicle, the lender sells it, and any deficiency is discharged along with your other debts. This eliminates ongoing payments on a depreciating asset that you are underwater on.
+
+Ride-Through (Where Available)
+
+Some jurisdictions historically permitted a "ride-through" option -- the debtor keeps the car and keeps paying without formally reaffirming. BAPCPA (the 2005 bankruptcy reform law) was intended to eliminate this option by requiring debtors to state their intention under Section 521(a)(2) and act on it within specific deadlines. However, enforcement varies by jurisdiction, and some courts still permit ride-through in practice.
+
+Frequently Asked Questions
+
+Can my car lender repossess my car after I file bankruptcy?
+
+Not without court permission. The automatic stay under Section 362 prevents repossession from the moment you file. However, the lender can file a motion for relief from stay asking the court to allow repossession. If the court grants the motion, the lender can proceed with repossession under state law.
+
+What is adequate protection for a car loan in bankruptcy?
+
+Adequate protection for a vehicle typically means making regular monthly payments to the lender that cover the interest on the loan plus the monthly depreciation of the vehicle. In practice, courts often accept the regular contractual car payment as adequate protection. Maintaining insurance on the vehicle is also required.
+
+How fast can a car lender get relief from stay?
+
+In a standard motion, the hearing is typically set 14 to 21 days after filing. Under Section 362(e), if the court does not rule within 30 days, the stay automatically terminates. In emergencies -- such as when a car is being damaged or hidden -- the lender can request ex parte relief under Section 362(f), which can be granted within days or even hours.
+
+What happens if my car is repossessed before I file bankruptcy?
+
+If the car was repossessed before you filed bankruptcy, filing triggers the automatic stay and may require the lender to return the vehicle -- but only if the lender has not yet sold it. Under Section 542(a), the lender may be required to turn over the vehicle as property of the estate. If the lender has already completed a sale, the vehicle is gone and your remedy is limited to damages for any stay violation.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Consent Orders and Stipulated Relief from Stay
+Source: https://relieffromstay.org/consent-order.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+Consent Orders and Stipulated Relief from Stay
+
+Often the best outcome is a negotiated agreement rather than a contested hearing. How consent orders work, what they include, and how to negotiate terms you can actually meet.
+
+Home » Relief from Stay » Consent Orders
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+What Is a Consent Order?
+
+A consent order -- also called a stipulated order, agreed order, or stipulation -- is a court-approved agreement between the debtor and a creditor that resolves a motion for relief from the automatic stay without a contested hearing. Both parties negotiate the terms, sign the agreement, and submit it to the court for approval.
+
+Consent orders are extremely common in relief from stay litigation. Many experienced bankruptcy judges and practitioners consider them the preferred resolution because they provide certainty for both sides and conserve judicial resources. Instead of a hearing where one side wins and the other loses, both parties get something they can work with.
+
+The court is not required to approve a consent order. The judge reviews the terms to ensure they are fair and consistent with bankruptcy law. In practice, courts almost always approve consent orders that are reasonable on their face.
+
+What a Typical Consent Order Includes
+
+While every consent order is tailored to the specific facts, most include these standard provisions:
+
+Adequate Protection Payments
+
+The debtor agrees to make specific adequate protection payments -- usually the regular monthly payment on the secured debt. The order specifies the exact dollar amount and the due date each month. For a mortgage, this typically means the regular PITI payment. For a car loan, it means the regular monthly payment.
+
+Cure of Post-Petition Arrearage
+
+If the debtor has missed post-petition payments, the order may require the debtor to cure those missed payments by a specific date -- either as a lump sum or in installments over a defined period.
+
+Insurance Requirements
+
+The debtor must maintain insurance on the collateral and provide proof of insurance to the creditor. The order may specify minimum coverage amounts and require the creditor to be listed as a loss payee or additional insured.
+
+Automatic Relief Trigger
+
+This is the most critical -- and most dangerous -- provision. The order states that if the debtor fails to comply with any of the terms (misses a payment, lets insurance lapse, etc.), the stay is automatically lifted without further court hearing. The creditor simply files an affidavit or declaration of default with the court, and relief becomes effective.
+
+Notice Provisions
+
+Some consent orders require the creditor to give the debtor a short notice period (often 5 to 10 days) before the automatic relief takes effect, giving the debtor one last chance to cure. Other orders provide for immediate relief with no notice. Negotiate for a notice-and-cure provision if possible.
+
+Read every word. The automatic relief trigger is the most consequential provision in the consent order. Understand exactly what will trigger automatic relief, whether you get any notice or cure period, and what the creditor can do once relief takes effect. Do not sign a consent order you cannot comply with.
+
+Benefits of a Consent Order
+
+For debtors, consent orders offer several significant advantages over a contested hearing:
+
+You keep the property. As long as you comply with the terms, the creditor cannot repossess, foreclose, or take other action.
+
+Certainty. You know exactly what you need to do and when. No surprises at a hearing.
+
+Negotiated terms. You can negotiate the payment amount, due dates, cure schedule, and notice provisions. A court-imposed order after a hearing may be less favorable.
+
+No adverse ruling. A consent order avoids the risk that the court grants outright relief. If you lose at a hearing, you lose the property. A consent order gives you a path to keep it.
+
+Good faith signal. Entering into a consent order demonstrates to the court and the trustee that you are acting in good faith and cooperating with creditors.
+
+Saves time and money. No hearing preparation, no evidence gathering, no attorney fees for court appearances. The negotiation often happens by phone or email.
+
+Risks of a Consent Order
+
+Consent orders are not risk-free. Understand the downsides before agreeing:
+
+Automatic relief is absolute. If you miss a payment by even one day (in orders without a grace period), the stay lifts automatically. No second hearing, no second chance. The creditor can act immediately.
+
+You waive your right to contest. By agreeing to the consent order, you are usually waiving your right to oppose the motion at a hearing. If you cannot comply with the terms, you cannot go back and argue the motion should be denied.
+
+Terms may be aggressive. Creditors' attorneys draft consent orders to favor their clients. The proposed payment schedule may be too tight, the cure deadline too soon, or the conditions too strict. Do not sign the creditor's first draft without negotiating.
+
+May not account for future problems. If your financial situation worsens (job loss, medical emergency), the consent order does not care. The terms are fixed, and failure to comply is failure to comply, regardless of the reason.
+
+The biggest risk: Agreeing to terms you cannot realistically meet. If your income is uncertain, if you are barely making ends meet, or if you have a history of missing payments, a consent order with tight deadlines and automatic relief provisions is a trap. Be honest with yourself about what you can actually do before signing.
+
+How to Negotiate a Consent Order
+
+Negotiation typically happens between the debtor (or debtor's counsel) and the creditor's attorney before or at the hearing. Here are practical tips:
+
+Start with a Realistic Proposal
+
+Before responding to the creditor's draft, calculate what you can actually pay each month after all essential expenses. Do not promise more than you can deliver. A consent order you cannot comply with is worse than no consent order at all.
+
+Negotiate a Cure Period
+
+Ask for a cure period in the automatic relief provision. Instead of immediate relief upon default, propose that the creditor must give you 7 to 14 days written notice of default, during which you can cure the missed payment. Many creditors will agree to a short cure period.
+
+Specify Payment Method and Address
+
+Include clear instructions on where and how to send payments. This avoids disputes about whether payments were received on time. If paying by mail, build in extra time for delivery.
+
+Address the Arrearage Realistically
+
+If you owe back payments, negotiate a reasonable cure schedule. Proposing to cure three months of arrears in one lump sum next week is not realistic. Spreading the cure over several months is more achievable.
+
+Get Everything in Writing
+
+The consent order must be in writing, signed by both parties, and entered by the court. Verbal agreements are not enforceable. Make sure the signed order matches what you negotiated.
+
+Consider Your Chapter 13 Plan
+
+If you are in Chapter 13, coordinate the consent order terms with your plan. The plan should provide for the creditor's claim in a way that is consistent with the consent order. Conflicting obligations create problems.
+
+When to Reject a Consent Order
+
+A consent order is not always the right choice. Consider fighting the motion at a hearing if:
+
+You have strong defenses that are likely to result in the motion being denied.
+
+The creditor's proposed terms are unreasonable and they refuse to negotiate.
+
+The creditor has weak evidence or procedural defects in the motion.
+
+You can demonstrate that you are current on payments and the motion is baseless.
+
+You need the court to make specific findings of fact that benefit your case.
+
+See How to Respond to a Motion for Relief from Stay for a complete guide to contesting the motion.
+
+Frequently Asked Questions
+
+What is a consent order in a relief from stay motion?
+
+A consent order (also called a stipulated order or agreed order) is a negotiated agreement between the debtor and creditor that resolves the motion for relief from stay without a contested hearing. The debtor typically agrees to make specific payments by specific dates, and the creditor agrees to hold off on repossession or foreclosure as long as the debtor complies. The order is signed by both parties and entered by the court.
+
+What happens if I miss a payment under a consent order?
+
+Most consent orders include an automatic relief provision -- if the debtor fails to make a required payment by the specified date, the stay lifts automatically without further court hearing. The creditor can then proceed with repossession or foreclosure immediately. This is one of the most significant risks of a consent order: there is no second chance, no grace period, and no additional hearing. Comply with every term, on time, every time.
+
+Should I agree to a consent order or fight the motion?
+
+It depends on your circumstances. If you have strong defenses and can win at a hearing, fighting may be better. If your position is weak -- you have missed multiple payments with no realistic way to catch up -- a consent order may be your best chance to keep the property by committing to a concrete payment plan. Many experienced bankruptcy attorneys recommend consent orders because they provide certainty and often include better terms than a court-imposed order after a contested hearing.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Relief from Stay for Cause -- Section 362(d)(1)
+Source: https://relieffromstay.org/for-cause.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+Relief from Stay for Cause
+
+Section 362(d)(1) is the broadest ground for lifting the automatic stay. "For cause, including the lack of adequate protection" -- what that means and how to defend against it.
+
+Home » Relief from Stay » For Cause
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+What Section 362(d)(1) Says
+
+Section 362(d)(1) provides that the court shall grant relief from the automatic stay "for cause, including the lack of adequate protection of an interest in property of such party in interest."
+
+Two critical words in this provision shape the entire analysis:
+
+"Cause" -- The Bankruptcy Code does not define this term. Courts have broad discretion to determine what constitutes cause on a case-by-case basis. This makes 362(d)(1) the most flexible and most commonly invoked ground for relief.
+
+"Including" -- Lack of adequate protection is just one example of cause, not an exhaustive definition. Courts have recognized many other forms of cause beyond inadequate protection.
+
+This open-ended standard gives courts wide latitude. Virtually any circumstance that makes it unfair to keep the stay in place can be argued as "cause." But the same flexibility that helps creditors also means there is no automatic formula -- every case turns on its specific facts.
+
+Common Forms of "Cause"
+
+Through decades of case law, courts have identified numerous circumstances that constitute cause under 362(d)(1):
+
+Lack of Adequate Protection
+
+The most common form of cause. The creditor's collateral is losing value (through depreciation, damage, or deterioration) and the debtor is not compensating the creditor for that loss. See our detailed guide on adequate protection for the full analysis under Section 361.
+
+Missed Post-Petition Payments
+
+Failure to make payments on secured debt after filing bankruptcy is the single strongest factual basis for a 362(d)(1) motion. If you stop paying your mortgage or car payment after filing, the creditor can persuasively argue cause. Courts view post-petition defaults very seriously because they suggest the debtor cannot maintain the collateral or fund a reorganization.
+
+Lack of Insurance
+
+Allowing insurance to lapse on collateral puts the creditor at risk of total loss. A house fire, car accident, or equipment theft without insurance coverage eliminates the creditor's protection entirely. Courts consistently find this to be cause for relief.
+
+Property Waste or Deterioration
+
+If the debtor is damaging, neglecting, or dissipating the collateral, the creditor can seek relief. Examples include allowing a house to fall into disrepair, stripping parts from equipment, or failing to maintain property.
+
+Bad Faith Filing
+
+If the bankruptcy was filed primarily to delay or frustrate a specific creditor rather than for a legitimate bankruptcy purpose, courts may find cause for relief. Indicators of bad faith include filing on the eve of a foreclosure sale, filing multiple cases in succession, having no unsecured creditors or minimal debt, and having no realistic prospect of reorganization.
+
+No Prospect of Reorganization
+
+In Chapter 11 or Chapter 13, if the debtor has no feasible plan and no reasonable likelihood of confirming one, continuing the stay serves no bankruptcy purpose. The creditor is being restrained without any corresponding benefit to the debtor's reorganization.
+
+Debtor Misconduct
+
+Hiding, transferring, or misusing the creditor's collateral. Using collateral in unauthorized ways. Refusing to provide information about the collateral's condition or location.
+
+The catch-all nature of "cause": Because cause is undefined, creative creditors' attorneys can argue almost any negative fact pattern constitutes cause. The debtor's best defense is always to address the underlying issue -- make the payments, get insurance, maintain the property -- rather than relying on technical arguments about what "cause" means.
+
+Burden of Proof Under Section 362(g)
+
+The burden of proof in a relief from stay proceeding is split by statute:
+
+The creditor bears the burden of proof on the issue of whether the debtor has equity in the property (relevant to 362(d)(2), but sometimes raised in a combined motion).
+
+The debtor bears the burden of proof on all other issues, including whether cause exists under 362(d)(1).
+
+This burden allocation has practical consequences. Once the creditor presents a basic factual showing of cause -- "the debtor has missed three payments" or "the debtor has no insurance" -- the burden shifts to the debtor to demonstrate why the stay should remain in place. Simply denying the creditor's allegations is not enough. The debtor must present affirmative evidence or a concrete proposal to address the creditor's concerns.
+
+Practical impact: Because the debtor bears the burden on cause, showing up to the hearing without evidence or a plan is nearly certain to result in the motion being granted. Come prepared with proof of payments, proof of insurance, and a concrete proposal for adequate protection going forward.
+
+Defending Against a 362(d)(1) Motion
+
+The best defenses match the specific form of "cause" alleged:
+
+If the Issue Is Missed Payments
+
+Propose adequate protection payments going forward and commit to a specific start date.
+
+If you have already caught up on missed payments, bring proof of the payments made.
+
+If your Chapter 13 plan provides for the creditor's claim, point the court to the plan provisions.
+
+If the Issue Is Insurance
+
+Obtain insurance immediately and bring the declarations page to the hearing.
+
+If the lapse was temporary and unintentional, explain the circumstances and show reinstatement.
+
+If the Issue Is Bad Faith
+
+Demonstrate legitimate bankruptcy purpose: unsecured debts being discharged, income freed up for plan payments, meaningful reorganization in progress.
+
+Show the court that the case is not just about one creditor -- there are other debts, other creditors, and a genuine financial fresh start at stake.
+
+If the Issue Is No Prospect of Reorganization
+
+File a plan (or show the court a filed plan) that demonstrates a feasible path to reorganization.
+
+Present income evidence showing you can fund the plan.
+
+If plan confirmation is imminent, ask for a brief continuance to allow confirmation to occur.
+
+For a complete step-by-step guide, see How to Respond to a Motion for Relief from Stay.
+
+Connection to Automatic Stay Violations
+
+It is important to distinguish between a creditor properly seeking relief from stay and a creditor that acts without court permission. Under Section 362(k), a creditor that willfully violates the automatic stay is liable for actual damages, including costs and attorney fees, and in appropriate cases, punitive damages.
+
+A creditor must first obtain a court order granting relief from stay before taking any action against the debtor or the property. Filing the motion is not enough -- the creditor must wait for the court's ruling. A creditor that repossesses a car or proceeds with foreclosure before the court grants relief is violating the stay, even if the creditor has strong grounds for relief.
+
+Frequently Asked Questions
+
+What counts as cause for relief from stay under 362(d)(1)?
+
+The Bankruptcy Code does not define "cause." Courts have found cause in many situations, including: failure to make post-petition payments, lack of insurance on collateral, property deterioration or waste, bad faith filing, no reasonable prospect of reorganization, and repeated defaults despite prior agreements. Lack of adequate protection is the most commonly cited form of cause.
+
+Who has the burden of proof for "cause" under 362(d)(1)?
+
+Under Section 362(g), the burden of proof is split. The creditor bears the burden on the issue of the debtor's equity in property. On all other issues -- including whether cause exists -- the party opposing relief (the debtor) bears the burden. This means once the creditor raises a colorable argument for cause, the debtor must affirmatively show why the stay should remain in effect.
+
+Can bad faith filing be considered cause for lifting the stay?
+
+Yes. If the court finds that the bankruptcy was filed primarily to delay a creditor rather than for a legitimate bankruptcy purpose, the filing may be considered "bad faith" and constitute cause for relief from stay. Courts look at factors such as the timing of the filing, the debtor's history of filings, whether the debtor has any realistic reorganization plan, and whether the case was filed on the eve of a foreclosure or other creditor action.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## How to Respond to a Motion for Relief from Stay
+Source: https://relieffromstay.org/how-to-respond.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+How to Respond to a Motion for Relief from Stay
+
+A step-by-step guide for debtors -- from reading the motion to attending the hearing. What to file, what to bring, and what to argue.
+
+Home » Relief from Stay » How to Respond
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+Step 1: Read the Motion Carefully
+
+The first thing to do when you receive a motion for relief from stay is read every word of it. Identify the following:
+
+Which property? The motion will identify the specific property the creditor wants relief on -- a house, a car, equipment, or another asset.
+
+Which grounds? Look for references to Section 362(d)(1) (for cause / lack of adequate protection), Section 362(d)(2) (no equity and not necessary for reorganization), or both. The grounds determine your defense strategy.
+
+What facts are alleged? How many payments does the creditor say you missed? What value does the creditor assign to the property? What is the claimed loan balance? Write down every factual assertion so you can verify or challenge it.
+
+What is the response deadline? The notice of hearing will state when your written response is due. This is typically 14 days from service, but check your district's local rules.
+
+Do not assume the creditor's facts are correct. Payment histories frequently contain errors. Property valuations may be stale or biased. Loan balance calculations may include unauthorized fees. Errors in the motion are opportunities for your defense.
+
+Step 2: Check Your Deadlines
+
+Time is your most critical resource. Under Section 362(e)(1), if the court does not rule within 30 days after the motion is filed, the stay automatically terminates as to the movant. That 30-day clock starts ticking the day the motion is filed, not the day you receive it.
+
+Your response deadline is typically 14 to 21 days after service of the motion, depending on local rules. If you miss this deadline, the court may grant the motion as unopposed -- meaning you lose without being heard.
+
+Mark three dates on your calendar:
+
+Response deadline -- The date your written opposition is due.
+
+Hearing date -- The date and time of the court hearing.
+
+30-day automatic termination date -- 30 days after the motion was filed. If this date passes without a ruling or continuance (with your consent), the stay terminates automatically.
+
+Step 3: File a Written Response
+
+Your written response is your opportunity to present your side to the court before the hearing. It should address each ground the creditor has asserted and lay out your defenses. A good response includes:
+
+For a 362(d)(1) Motion (Cause / Lack of Adequate Protection)
+
+Explain why adequate protection exists or how you will provide it going forward.
+
+Offer specific adequate protection payments -- state the amount and when payments will begin.
+
+Provide proof of insurance if the lender claims insurance has lapsed.
+
+If the lender claims missed payments, provide your own payment records showing what you have actually paid.
+
+For a 362(d)(2) Motion (No Equity / Not Necessary)
+
+Present evidence of the property's fair market value showing that you have equity (the value exceeds the liens).
+
+Alternatively, argue that the property is necessary for an effective reorganization -- you need the car for work, the house for your family, or the equipment for your business.
+
+In Chapter 13, explain how the property fits into your plan. A confirmed plan that provides for the creditor's claim is strong evidence of necessity.
+
+File the response with the court clerk and serve a copy on the creditor's attorney and the trustee. Use the court's electronic filing system (CM/ECF) if you have access, or file in paper at the clerk's office.
+
+Step 4: Gather Your Evidence
+
+Do not show up to the hearing empty-handed. Gather the following documents and bring copies for the court and the creditor's attorney:
+
+Payment records -- Bank statements, cancelled checks, or money order receipts showing all payments you have made to the creditor, both pre-petition and post-petition.
+
+Insurance declarations page -- Current proof of insurance on the property. If insurance lapsed temporarily, also bring proof that it has been reinstated.
+
+Property valuation -- If equity is an issue, bring an appraisal, a NADA or Kelley Blue Book printout (for vehicles), or comparable sales data (for real estate).
+
+Proof of income -- Pay stubs, tax returns, or business records showing you have the ability to make adequate protection payments and fund your plan.
+
+Your Chapter 13 plan -- If you are in Chapter 13 and the plan provides for the creditor's claim, bring a copy of the plan and any confirmation order.
+
+Correspondence with the creditor -- Any letters, emails, or records of phone calls where you attempted to make payments or negotiate.
+
+Step 5: Attend the Hearing
+
+This is non-negotiable. If you do not appear, the court will grant the motion as unopposed. Arrive early, dress professionally, and be prepared to speak clearly and concisely.
+
+What to Expect
+
+Most relief from stay hearings are relatively brief -- 15 to 30 minutes. The creditor's attorney will present the motion and summarize the grounds. You (or your attorney) will then present your response. The judge may ask questions of both sides. Some courts hold a preliminary hearing first, with a full evidentiary hearing scheduled later if needed.
+
+What to Argue
+
+Focus on the specific grounds the creditor has raised:
+
+If the issue is cause / adequate protection: Tell the court what you will pay, when you will start, and how you can afford it. Offer to make the first payment immediately. Courts want to see concrete action, not vague promises.
+
+If the issue is equity: Present your valuation evidence. If your appraisal differs from the creditor's, explain why yours is more reliable.
+
+If the issue is necessity for reorganization: Explain in plain terms why you need the property to complete your bankruptcy plan. Be specific about how losing the property would derail your ability to make plan payments.
+
+Pro se debtors: If you are representing yourself, the court will give you some leeway on procedural formalities, but you must still meet the substantive burdens. Under Section 362(g), the creditor must prove lack of equity, but you bear the burden on all other issues. Come prepared with evidence, not just arguments.
+
+Step 6: Consider a Consent Order
+
+Before or during the hearing, the creditor's attorney may offer to negotiate a consent order. This is a stipulated agreement where you agree to specific conditions (usually a payment schedule), and the creditor agrees to hold off on exercising its remedies as long as you comply.
+
+Benefits of a consent order:
+
+You keep the property as long as you meet the terms.
+
+You avoid the risk of an unfavorable ruling at the hearing.
+
+The terms are negotiated, not imposed -- you may get better terms than the court would order.
+
+It demonstrates good faith to the court and the trustee.
+
+Risks of a consent order:
+
+If you miss a payment deadline, the creditor can act immediately without filing a new motion.
+
+The automatic relief provision is typically absolute -- no grace period, no second chances.
+
+Read any proposed consent order carefully before signing. Make sure the payment amounts and dates are realistic. Do not agree to terms you cannot meet.
+
+Frequently Asked Questions
+
+How long do I have to respond to a motion for relief from stay?
+
+Most bankruptcy courts require a written response within 14 days of service, though deadlines vary by local rule. Check the notice of hearing that accompanies the motion -- it will state the specific response deadline. Missing the deadline can result in the motion being granted as unopposed without a hearing.
+
+Can I fight a relief from stay motion without a lawyer?
+
+Yes, pro se debtors can and do oppose relief from stay motions. You have the right to file a written response, present evidence, and argue at the hearing. However, the legal standards and procedural rules can be complex. If you are representing yourself, focus on the basics: file a timely response, bring proof of payments and insurance, and be prepared to propose adequate protection.
+
+What happens if I do not respond to a relief from stay motion?
+
+If you fail to respond by the deadline and do not appear at the hearing, the court will likely grant the motion as unopposed. This means the creditor can proceed with repossession, foreclosure, or whatever remedy it sought. The stay terminates as to that creditor, and you lose the protection without having your arguments heard.
+
+Should I agree to a consent order instead of fighting the motion?
+
+A consent order can be the best outcome in many cases. It gives the debtor a concrete path to keep the property by meeting specific payment obligations, while giving the creditor certainty. The key advantage is that you negotiate terms rather than having the court impose them. The risk is that missing a trigger payment gives the creditor immediate relief without another hearing.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Relief from Stay -- When Creditors Lift Protection [2026]
+Source: https://relieffromstay.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+Relief from Stay
+
+When Creditors Ask the Court to Lift Your Protection -- A plain-language guide to 11 U.S.C. Section 362(d), the process creditors use to ask the bankruptcy court to end the automatic stay and resume collection, foreclosure, or repossession.
+
+Home » Relief from Stay
+
+On This Page
+
+What Is a Motion for Relief from Stay?
+
+Section 362(d)(1) -- Relief for Cause
+
+Section 362(d)(2) -- No Equity + Not Necessary
+
+Section 362(d)(3) -- Single Asset Real Estate
+
+Section 362(d)(4) -- Scheme to Hinder
+
+The Hearing Process
+
+How to Oppose a Motion for Relief
+
+What Happens If the Stay Is Lifted
+
+Adequate Protection (Section 361)
+
+Common Scenarios
+
+Related Resources
+
+Frequently Asked Questions
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+1. What Is a Motion for Relief from Stay?
+
+When someone files for bankruptcy, the automatic stay protection in bankruptcy under 11 U.S.C. Section 362 immediately halts most creditor collection activity. Lawsuits are paused. Foreclosures stop. Repossessions cannot proceed. Wage garnishments are frozen. The stay is one of the most powerful protections in bankruptcy law.
+
+But the stay is not permanent, and it is not absolute. Section 362(d) allows creditors to ask the bankruptcy court for relief from the automatic stay -- permission to resume their collection efforts despite the pending bankruptcy case. This request takes the form of a formal motion filed with the court, and the debtor has the right to oppose it.
+
+A motion for relief from stay is not a ruling that the debtor has done something wrong. It is a procedural mechanism built into the Bankruptcy Code that recognizes creditors have legitimate interests in their collateral. The court's job is to balance those interests against the debtor's need for breathing room to reorganize or complete the bankruptcy process.
+
+Relief from stay motions are among the most frequently litigated matters in bankruptcy court. They are filed in every chapter -- Chapter 7, Chapter 11, and Chapter 13. The stakes are high: losing a stay motion can mean losing a home, a vehicle, or critical business equipment before the bankruptcy case has a chance to provide meaningful relief.
+
+There are four distinct grounds for relief under Section 362(d), numbered (d)(1) through (d)(4). Each has different requirements, different burdens of proof, and different strategic implications. Understanding which ground a creditor is using -- and how to respond -- is essential for any debtor facing this motion.
+
+2. Section 362(d)(1) -- Relief for Cause, Including Lack of Adequate Protection
+
+Section 362(d)(1) is the most commonly invoked ground for relief from stay. It provides that the court shall grant relief "for cause, including the lack of adequate protection of an interest in property of such party in interest." The word "including" is critical -- it means lack of adequate protection is just one example of "cause." Courts have found many other forms of cause as well.
+
+What Counts as "Cause"?
+
+The Bankruptcy Code does not define "cause." Courts have developed the concept through decades of case law. Common examples include:
+
+Lack of adequate protection -- The creditor's collateral is losing value (through depreciation, damage, or lack of insurance) and the debtor is not compensating the creditor for that loss.
+
+Failure to make post-petition payments -- The debtor has stopped making mortgage or car payments after filing bankruptcy, and the arrearage is growing.
+
+Lack of insurance -- The debtor has let insurance lapse on property that secures the creditor's claim, putting the collateral at risk.
+
+Debtor misconduct -- The debtor is wasting, hiding, or misusing the collateral.
+
+Bad faith filing -- The case was filed primarily to delay the creditor rather than for a legitimate bankruptcy purpose.
+
+No reasonable prospect of reorganization -- In Chapter 11 or Chapter 13, the debtor has no feasible plan and the case is going nowhere.
+
+Burden of Proof
+
+Under Section 362(g), the party requesting relief has the burden of proof on the issue of the debtor's equity in property. On all other issues, including "cause," the party opposing relief -- usually the debtor -- has the burden of proof. This means that once a creditor raises a colorable claim of cause (such as missed payments), the debtor must demonstrate why the stay should remain in effect.
+
+Practical note: The most common 362(d)(1) motion involves a mortgage company or car lender arguing that the debtor has missed post-petition payments and the creditor's interest is not adequately protected. The debtor's best response is usually to propose adequate protection -- regular payments going forward, plus a plan to cure the arrears.
+
+3. Section 362(d)(2) -- No Equity and Not Necessary for Reorganization
+
+Section 362(d)(2) provides an alternative ground for relief. The court shall grant relief if the debtor does not have equity in the property and the property is not necessary to an effective reorganization. Both elements must be present -- the creditor must show lack of equity, and the debtor must fail to show that the property is needed for reorganization.
+
+The Equity Test
+
+Under Section 362(g)(1), the creditor bears the burden of proving that the debtor has no equity in the property. Equity means the difference between the property's fair market value and all liens and encumbrances against it. If the property is worth $200,000 and the total liens are $220,000, the debtor has no equity. If the liens total $180,000, the debtor has $20,000 in equity and this ground for relief fails.
+
+Valuation disputes are common. The creditor may present a broker's price opinion or appraisal showing low value, while the debtor counters with a different appraisal or comparable sales data. The court must weigh the evidence and determine fair market value.
+
+The Reorganization Necessity Test
+
+Even if the debtor has no equity, the stay remains in effect if the property is necessary to an effective reorganization. This element only applies in reorganization cases (Chapter 11 and Chapter 13). In a Chapter 7 liquidation, there is no reorganization, so the debtor cannot use this defense.
+
+To satisfy this test, the debtor must show more than a vague hope of reorganizing. The debtor must demonstrate a reasonable possibility of a successful reorganization within a reasonable time. A Chapter 13 debtor who needs a vehicle to get to work has a strong argument that the car is necessary for reorganization. A Chapter 11 business debtor who needs equipment to generate revenue can argue the same.
+
+Key distinction: In Chapter 7 cases, once the creditor proves no equity, the analysis under 362(d)(2) is essentially over. There is no reorganization to protect. In Chapter 13 and Chapter 11, the debtor gets a second chance by showing the property is essential to the plan.
+
+4. Section 362(d)(3) -- Single Asset Real Estate
+
+Section 362(d)(3) applies specifically to "single asset real estate" cases -- a narrow but important category. A single asset real estate case involves a debtor whose principal asset is a single property or project (other than residential property with fewer than four units), and the debtor generates substantially all of its gross income from that property.
+
+In these cases, the creditor can obtain relief from stay unless, within 30 days after the court determines that Section 362(d)(3) applies (or within 30 days after the order for relief, whichever is later), the debtor has either:
+
+Filed a plan of reorganization that has a reasonable possibility of being confirmed within a reasonable time, or
+
+Commenced making monthly payments to the secured creditor in an amount equal to interest at the then-applicable non-default contract rate on the value of the creditor's interest in the property.
+
+This provision was enacted because Congress recognized that single asset real estate cases were frequently used as delay tactics. The debtor would file bankruptcy solely to stop a foreclosure, with no real intention of reorganizing. The 30-day deadline forces the debtor to demonstrate genuine intent early in the case.
+
+The 30-day clock is strict. If the debtor misses the deadline, the court must grant relief from stay. There is very little room for extensions. Debtors in single asset real estate cases need to act immediately upon filing.
+
+5. Section 362(d)(4) -- Scheme to Delay, Hinder, or Defraud
+
+Section 362(d)(4) addresses the most egregious abuse of the bankruptcy system: serial filing schemes designed to prevent creditors from exercising their rights. This provision applies when the court finds that the filing was part of a scheme to delay, hinder, or defraud creditors, and the scheme involved either:
+
+Transfer of ownership of the property without the secured creditor's consent and without court approval, or
+
+Multiple bankruptcy filings affecting the property.
+
+The classic scenario involves a property owner facing foreclosure who transfers the property to a relative or shell entity, which then files bankruptcy to invoke the automatic stay. When that case is dismissed, the property is transferred again, and another bankruptcy is filed. Each filing triggers a new automatic stay and further delays the foreclosure.
+
+In Rem Relief
+
+What makes Section 362(d)(4) uniquely powerful is that the court can grant relief that is binding in rem -- attached to the property itself, not just the debtor. This means the relief remains effective for a period of two years, even if the property is transferred to a new owner who files a new bankruptcy case. The new owner's automatic stay will not protect the property.
+
+For this in rem relief to be effective against future transferees, the order must be recorded in compliance with applicable state laws governing notices or the filing of lis pendens. This typically means recording the order in the county recorder's office where the property is located.
+
+This is the nuclear option. In rem relief under 362(d)(4) is reserved for genuine abuse. Courts do not grant it lightly. But when they do, it effectively removes the property from bankruptcy protection for two years, regardless of who owns it.
+
+6. The Hearing Process
+
+Understanding the timeline and procedures for a relief from stay motion is critical. The Bankruptcy Code imposes strict deadlines that can have serious consequences if missed.
+
+Filing and Service
+
+The creditor files the motion with the bankruptcy court and serves it on the debtor, the debtor's attorney (if any), and the trustee. The motion must state the specific grounds for relief and include supporting evidence -- typically a declaration from a loan servicer or creditor representative describing the missed payments, property value, and other relevant facts.
+
+Response Deadline
+
+The debtor typically has 14 days to file a written response opposing the motion, though this varies by local rule. Some courts set a different deadline in the notice of hearing. Missing this deadline can result in the motion being granted without a hearing as an unopposed matter.
+
+The 30-Day Rule -- Section 362(e)
+
+Section 362(e)(1) contains a critical automatic-termination provision: if the court does not rule on the motion (either by final decision or by continuing the hearing with the debtor's consent) within 30 days after the request is made, the stay is automatically terminated as to the movant. This is not discretionary. If the 30 days pass without action, the stay is gone.
+
+This rule exists to prevent courts from simply ignoring stay motions while the debtor continues to benefit from the stay at the creditor's expense. In practice, most courts schedule preliminary hearings within 14 to 21 days.
+
+Preliminary vs. Final Hearing
+
+Many courts hold a preliminary hearing first. At the preliminary hearing, the court decides whether the creditor has made a sufficient showing to justify further proceedings. If so, the court may schedule a final evidentiary hearing. In many cases, the parties reach an agreement at the preliminary hearing -- for example, the debtor agrees to make adequate protection payments, and the creditor agrees to hold off.
+
+Burden of Proof at the Hearing
+
+Section 362(g) allocates the burden of proof as follows:
+
+The creditor bears the burden on the issue of whether the debtor has equity in the property.
+
+The debtor bears the burden on all other issues, including cause and the necessity of the property for reorganization.
+
+This split burden means that the debtor must come prepared to argue affirmatively why the stay should remain in place. Showing up without evidence or a concrete proposal is a recipe for losing the motion.
+
+7. How to Oppose a Motion for Relief from Stay
+
+If a creditor files a motion for relief from stay, the debtor is not helpless. There are several strategies for opposing the motion, depending on the grounds asserted and the debtor's circumstances.
+
+Offer Adequate Protection
+
+The single most effective response to a 362(d)(1) motion based on lack of adequate protection is to offer it. This typically means proposing regular monthly payments to the creditor going forward. The payments should cover at least the interest accruing on the claim plus any depreciation in the collateral's value. If the debtor can demonstrate that the creditor's interest is protected, the motion should fail.
+
+Demonstrate Equity
+
+If the creditor is proceeding under 362(d)(2), the debtor can defeat the motion by showing equity in the property. This requires evidence of the property's fair market value -- a recent appraisal, comparable sales, or a broker's opinion of value. If the property is worth more than the total liens, the debtor has equity and the 362(d)(2) motion fails regardless of whether the property is necessary for reorganization.
+
+Show Necessity for Reorganization
+
+Even if the debtor has no equity, the debtor can defeat a 362(d)(2) motion by demonstrating that the property is necessary for an effective reorganization. In Chapter 13, this means showing that the debtor needs the property to complete the plan -- for example, a car needed to commute to work, or a home the debtor is paying for through the plan. In Chapter 11, this means showing the property is essential to the debtor's business operations.
+
+Cure Through the Plan
+
+In Chapter 13, Section 1322(b)(5) allows the debtor to cure pre-petition arrears on long-term debt (like a mortgage) through the plan while maintaining current payments. If the debtor has a confirmed plan that provides for curing the arrearage, this is a strong argument against relief from stay. Even if the plan is not yet confirmed, a pending plan that proposes a cure can weigh against granting relief.
+
+Challenge the Evidence
+
+The creditor's motion is only as strong as the evidence supporting it. Common challenges include:
+
+Disputing the creditor's valuation of the property
+
+Questioning whether the creditor has standing (does the movant actually hold the note and mortgage?)
+
+Challenging the accuracy of the payment history or arrearage calculations
+
+Pointing out that the debtor has been making post-petition payments that the creditor has not properly credited
+
+Request a Continuance
+
+If the debtor needs more time to gather evidence or finalize an adequate protection proposal, the debtor can request a continuance. Under Section 362(e)(1), the debtor must consent to the continuance for the 30-day clock to be tolled. Without the debtor's consent, the stay terminates automatically after 30 days.
+
+Pro tip: The best time to address a potential stay motion is before it is filed. If you know you are behind on payments, contact the creditor proactively to propose adequate protection. Many creditors will accept voluntary payments rather than incur the expense of filing a motion.
+
+8. What Happens If the Stay Is Lifted
+
+If the court grants the motion for relief from stay, the creditor is free to exercise its state-law remedies as to the specific property or action covered by the order. The scope of relief depends on what the creditor requested and what the court granted.
+
+The Order Is Usually Limited
+
+Relief from stay orders are typically narrow. They lift the stay only as to the specific creditor who filed the motion and only as to the specific property or claim identified in the motion. The automatic stay remains in full effect as to all other creditors and all other property. The rest of the bankruptcy case continues normally.
+
+What the Creditor Can Do
+
+Once the stay is lifted, the creditor can proceed as if the bankruptcy had not been filed -- but only with respect to the covered property or action. Depending on the type of claim, this may include:
+
+Foreclosure -- The mortgage company can resume or initiate foreclosure proceedings under state law.
+
+Repossession -- The car lender can repossess the vehicle.
+
+Eviction -- The landlord can proceed with eviction proceedings.
+
+Lawsuit -- A creditor with a pending lawsuit can resume litigation in state or federal court.
+
+Setoff -- A bank can exercise its right of setoff against the debtor's deposit account.
+
+Effect on the Bankruptcy Case
+
+Losing the stay does not end the bankruptcy case. The case continues, and the debtor can still obtain a discharge of eligible debts. However, losing a key asset -- like a home or vehicle -- can undermine the debtor's ability to complete a Chapter 13 plan or reorganize in Chapter 11.
+
+In some cases, the court grants relief from stay with conditions -- for example, allowing foreclosure to proceed but ordering that any surplus from the sale be turned over to the bankruptcy estate. The debtor should read the order carefully to understand its full scope.
+
+Important: A creditor who acts on property before the court officially grants relief from stay -- or who exceeds the scope of the relief granted -- may be liable for violating the automatic stay under Section 362(k). The order is the creditor's permission slip, and it must be followed precisely.
+
+9. Adequate Protection -- Section 361
+
+Adequate protection is the central concept in most relief from stay disputes. Section 361 defines what adequate protection means and the forms it can take. The purpose is to protect the creditor's interest in its collateral during the bankruptcy case -- to ensure that the creditor is not worse off because of the stay than it would be without it.
+
+Forms of Adequate Protection
+
+Section 361 lists three forms of adequate protection:
+
+Periodic cash payments -- Payments to the creditor to compensate for any decrease in the value of the creditor's interest in the property. For a depreciating asset like a vehicle, this typically means monthly payments equal to the interest plus depreciation.
+
+Additional or replacement lien -- Granting the creditor a lien on additional property to offset any decrease in value of the original collateral. For example, if equipment is depreciating, the debtor might offer a lien on other unencumbered assets.
+
+Other relief -- Any other relief that provides the creditor with the "indubitable equivalent" of its interest in the property. This is a catch-all provision that gives courts flexibility.
+
+What Adequate Protection Does NOT Include
+
+Section 361(3) specifically provides that adequate protection cannot take the form of granting the creditor an administrative expense claim under Section 503(b)(1). In other words, the debtor cannot simply promise to pay the creditor at the end of the case as a form of adequate protection. The protection must be tangible and current.
+
+Calculating Adequate Protection Payments
+
+The amount of adequate protection required depends on the specific facts. Courts generally consider:
+
+The current value of the collateral
+
+The rate at which the collateral is depreciating (for vehicles, equipment, etc.)
+
+The interest rate on the creditor's claim
+
+Whether the debtor is maintaining insurance on the property
+
+Whether the debtor is maintaining and preserving the property
+
+For a mortgage, adequate protection typically means making the regular monthly payment. For a vehicle, it usually means paying an amount that covers interest plus the monthly decline in value. The exact amount is often negotiated between the parties before or at the hearing.
+
+10. Common Scenarios
+
+Relief from stay motions arise in predictable situations. Here are the most common scenarios debtors encounter.
+
+Mortgage Company Seeking Foreclosure
+
+This is the most common relief from stay motion in consumer bankruptcy. The mortgage servicer files a motion arguing that the debtor has missed post-petition payments, has no equity in the home, and that the home is not necessary for reorganization (or that there is cause for relief). In Chapter 13, the debtor typically opposes by showing that the plan provides for curing the mortgage arrearage and maintaining current payments going forward. Courts often deny the motion if the debtor can demonstrate ability and willingness to make adequate protection payments.
+
+Car Lender Seeking Repossession
+
+Vehicle lenders frequently file relief from stay motions when the debtor falls behind on post-petition payments. Vehicles depreciate rapidly, which gives the lender a strong adequate protection argument. The debtor's best defense is to propose adequate protection payments (usually equal to the regular car payment) and demonstrate that the vehicle is essential for getting to work. In Chapter 13, the plan often provides for paying the car loan in full, which strengthens the debtor's position.
+
+Landlord Seeking Eviction
+
+Residential landlords can seek relief from stay to proceed with eviction. The analysis depends on whether the landlord obtained a judgment for possession before the bankruptcy was filed. Under Section 362(b)(22), if the landlord already has a judgment for possession, the automatic stay does not apply at all (with a narrow exception under Section 362(l) for debtors who deposit rent and cure within 30 days). If no pre-petition judgment exists, the landlord must file a motion like any other creditor.
+
+Creditor with a Pending Lawsuit
+
+A creditor who had a lawsuit pending against the debtor when the bankruptcy was filed may seek relief from stay to continue the litigation. Courts consider factors such as whether the lawsuit involves only the determination of the debtor's liability (which can proceed under Section 362(b)(1) if it is a governmental action), whether the lawsuit involves co-defendants who are not in bankruptcy, and whether the issues in the lawsuit overlap with issues in the bankruptcy case.
+
+IRS or Tax Authority
+
+Government entities, including the IRS, occasionally seek relief from stay to continue tax collection efforts. However, many governmental actions are already exempt from the stay under Section 362(b)(4) (police and regulatory power exception) and Section 362(b)(9) (tax audits). The IRS typically only needs to file a motion if it wants to levy on specific property of the estate.
+
+11. Related Resources
+
+Relief from stay does not exist in a vacuum. Understanding the related provisions and concepts will help you navigate this area more effectively.
+
+automatic stay protection in bankruptcy -- Complete guide to the automatic stay under Section 362, including what it stops, how long it lasts, repeat filer limits under 362(c)(3) and 362(c)(4), and creditor violations under 362(k).
+
+1328f.com -- Free discharge eligibility screener for Section 1328(f) restrictions on repeat Chapter 7 and Chapter 13 filings.
+
+Section 109(g) filing bars -- Guide to the 180-day filing bar under Section 109(g), which can prevent a debtor from refiling after a dismissal.
+
+Section 523(a) nondischargeable debts -- Guide to nondischargeable debts under Section 523(a) -- debts that survive bankruptcy.
+
+bankruptcy means test guide -- Guide to the Chapter 7 means test under Section 707(b).
+
+what to expect at the 341 meeting -- What to expect at the meeting of creditors (341 hearing).
+
+Section 727(a)(8) eight-year discharge bar -- Guide to objections to discharge under Section 727(a).
+
+discharge injunction protection -- Guide to the discharge injunction under Section 524.
+
+pro se bankruptcy filing guide -- Resources for debtors representing themselves in bankruptcy court.
+
+12. Frequently Asked Questions
+
+How long does a creditor have to wait after filing a motion for relief from stay?
+
+Under Section 362(e)(1), if the court does not rule on the motion within 30 days after the request is made, the stay is automatically terminated as to the movant. This creates a strong incentive for the court to schedule and decide these motions quickly. In practice, most courts hold hearings within 14 to 21 days of filing.
+
+Can the debtor stop a motion for relief from stay?
+
+Yes. The debtor can oppose the motion by filing a response and appearing at the hearing. Common defenses include offering adequate protection payments, demonstrating equity in the property, showing the property is necessary for reorganization, or curing the default through the bankruptcy plan. The debtor bears the burden of proof on equity and necessity for reorganization.
+
+What is adequate protection in bankruptcy?
+
+Adequate protection under Section 361 is a mechanism to protect a creditor's interest in property during the bankruptcy case. It can take several forms: periodic cash payments to offset depreciation, an additional or replacement lien on other property, or other relief that gives the creditor the "indubitable equivalent" of its interest. The most common form is monthly payments equal to the interest accruing plus any depreciation in the collateral's value.
+
+What happens after the stay is lifted?
+
+Once the court grants relief from stay, the creditor is free to exercise its state-law remedies as if the bankruptcy had not been filed -- at least with respect to the specific property or action covered by the order. For a mortgage company, this means proceeding with foreclosure. For a car lender, it means repossession. For a landlord, it means eviction. The rest of the bankruptcy case continues, and the stay remains in effect as to other creditors.
+
+Does the automatic stay come back if the creditor's motion is denied?
+
+Yes. If the court denies the motion for relief from stay, the automatic stay remains fully in effect. The creditor cannot take any collection action against the debtor or the property. However, the creditor may file a new motion later if circumstances change -- for example, if the debtor falls behind on adequate protection payments or if the property loses additional value.
+
+Can a creditor get relief from stay without a hearing?
+
+In most cases, no. If the debtor or trustee opposes the motion, the court must hold a hearing. However, if no opposition is filed within the deadline set by the court (often 14 days), many courts will grant the motion as unopposed without a full evidentiary hearing. Under Section 362(f), the court can also grant emergency ex parte relief if the creditor demonstrates that its interest in property will suffer irreparable damage before the court can hold a hearing.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Which chapter lets you keep more property?
+
+chapter7vs13.org →
+
+8-Year Discharge Bar
+
+Filed Chapter 7 before? Check refiling timeline
+
+727a8.com →
+
+Your Complete Path
+
+Step-by-step guide from refiling to finding an attorney
+
+filebankruptcyagain.com →
+
+Exemptions by State
+
+Vehicle, homestead, and wildcard exemptions for your state
+
+bankruptcyexemptionsbystate.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Relief from Stay for Lack of Equity -- Section 362(d)(2)
+Source: https://relieffromstay.org/lack-of-equity.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+Relief from Stay for Lack of Equity
+
+Section 362(d)(2) requires the creditor to prove two things: no equity in the property AND that the property is not necessary for an effective reorganization. Both elements must be met.
+
+Home » Relief from Stay » Lack of Equity
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+The Two-Part Test Under Section 362(d)(2)
+
+Section 362(d)(2) provides that the court shall grant relief from stay if:
+
+The debtor does not have an equity in the property, AND
+
+The property is not necessary to an effective reorganization.
+
+The word "and" is critical. Both elements must be satisfied. If the debtor has equity, the motion fails regardless of whether the property is necessary. If the property is necessary for reorganization, the motion fails regardless of equity. The creditor must clear both hurdles.
+
+This ground is distinct from Section 362(d)(1), which focuses on cause and adequate protection. A creditor can invoke both 362(d)(1) and 362(d)(2) in the same motion, and frequently does.
+
+Prong 1: No Equity in the Property
+
+"Equity" means the difference between the property's fair market value and all liens and encumbrances against it. If the value exceeds the liens, the debtor has equity. If the liens exceed the value, the debtor has no equity -- the property is "underwater."
+
+How Equity Is Calculated
+
+The calculation is straightforward in concept but often disputed in practice:
+
+Fair market value -- What the property would sell for in a reasonable time to a willing buyer. For real estate, this usually requires an appraisal or comparative market analysis. For vehicles, courts commonly accept NADA or Kelley Blue Book values.
+
+All liens and encumbrances -- This includes the movant's lien plus all other liens: second mortgages, judgment liens, tax liens, mechanic's liens, and any other encumbrances of record.
+
+Costs of sale -- Some courts deduct estimated costs of sale (broker commissions, closing costs) from the fair market value when calculating equity. Others do not. Check your district's practice.
+
+Burden of Proof
+
+Under Section 362(g)(1), the party requesting relief -- the creditor -- bears the burden of proof on the debtor's equity. This is one of the rare instances where the creditor bears the burden in a relief from stay motion. The creditor must present evidence (an appraisal, BPO, or comparable sales data) showing that the property's value is less than the total liens.
+
+If the creditor fails to meet this burden, the motion under 362(d)(2) fails even if the property is not necessary for reorganization.
+
+Valuation disputes are common. The creditor's appraiser may use distressed sale comparables or emphasize negative property conditions. The debtor can counter with a different appraisal, recent tax assessment values, or comparable sales showing higher value. Courts weigh the evidence and make a finding.
+
+Prong 2: Not Necessary for an Effective Reorganization
+
+Even if the debtor has no equity, the stay remains in place if the property is necessary to an effective reorganization. This second prong is where Chapter 13 and Chapter 11 debtors have a major advantage over Chapter 7 debtors.
+
+In Chapter 7: No Reorganization Defense
+
+Chapter 7 is a liquidation proceeding, not a reorganization. There is no plan, no reorganization to protect. Once the creditor proves no equity in Chapter 7, the 362(d)(2) analysis is effectively over. The property is not necessary for a reorganization that does not exist. Courts routinely grant 362(d)(2) motions in Chapter 7 when the debtor has no equity.
+
+In Chapter 13: Strong Defense Available
+
+Chapter 13 is a reorganization chapter, and almost all of a debtor's property can be argued as necessary for an effective reorganization:
+
+Vehicle -- Needed to commute to work, which generates the income that funds the plan.
+
+Home -- Provides stable housing that allows the debtor to maintain employment and complete the plan.
+
+Business equipment -- Used to generate revenue that funds plan payments.
+
+The debtor must show more than a vague hope of reorganization. Courts require a "reasonable possibility of a successful reorganization within a reasonable time." A confirmed Chapter 13 plan that provides for the creditor's claim is strong evidence. Even a pending plan that appears feasible can be sufficient.
+
+In Chapter 11: Must Show Feasible Reorganization
+
+Chapter 11 debtors must demonstrate that a successful reorganization is in prospect. This typically means the debtor has filed (or is about to file) a plan of reorganization, the plan has a reasonable chance of being confirmed, and the property plays a role in the plan. Courts apply the standard from United Savings Association v. Timbers of Inwood Forest, 484 U.S. 365 (1988), which requires a reasonable possibility of successful reorganization within a reasonable time.
+
+The Chapter 7 vs. Chapter 13 difference is critical. If you are in Chapter 7 with no equity, the creditor will almost certainly win a 362(d)(2) motion. If saving the property is important, consider whether converting to Chapter 13 is possible and advisable. Chapter 13 gives you the reorganization necessity defense that Chapter 7 lacks.
+
+Connection to Lien Stripping
+
+The equity analysis under 362(d)(2) is closely related to lien stripping. If a property is so far underwater that a junior lien (second mortgage, HELOC) is wholly unsecured -- meaning the senior liens alone exceed the property value -- the debtor may be able to strip the junior lien through the Chapter 13 plan.
+
+Lien stripping under Section 506(a) revalues the junior creditor's claim based on the property's actual value. If the senior liens exceed the value, the junior lien has no secured value and is treated as an unsecured claim. This can eliminate second mortgages entirely, dramatically improving the debtor's financial position.
+
+The irony: the same "no equity" finding that a creditor uses to seek relief from stay can also support the debtor's argument that a junior lien should be stripped. Understanding both sides of the equity analysis is important for comprehensive strategy.
+
+Defending Against a 362(d)(2) Motion
+
+Your defense depends on which prong you can attack:
+
+Challenge the Valuation (Attack Prong 1)
+
+Obtain your own appraisal or valuation evidence showing the property is worth more than the creditor claims.
+
+Challenge the creditor's appraisal methodology -- were the comparables truly comparable? Was the condition assessment fair?
+
+Present evidence of recent improvements, market appreciation, or other factors increasing value.
+
+If even a small amount of equity exists, 362(d)(2) fails entirely.
+
+Prove Necessity for Reorganization (Attack Prong 2)
+
+In Chapter 13, explain specifically how the property supports your plan. How does the car get you to work? How does the home provide the stability needed to complete the plan?
+
+Show the court a feasible plan (confirmed or pending) that provides for the creditor's claim.
+
+Demonstrate that losing the property would derail the reorganization -- if you lose the car, you lose the job; if you lose the job, you cannot make plan payments; if you cannot make plan payments, the case fails.
+
+Frequently Asked Questions
+
+What does lack of equity mean in a relief from stay motion?
+
+Lack of equity means the total liens and encumbrances on the property exceed its fair market value. For example, if a home is worth $200,000 but the mortgage balance is $220,000, the debtor has no equity. Under Section 362(d)(2), the creditor must prove lack of equity, but this alone is not enough -- the creditor must also show the property is not necessary for an effective reorganization.
+
+Who has the burden of proof on equity under 362(d)(2)?
+
+Under Section 362(g)(1), the party requesting relief from stay -- the creditor -- bears the burden of proving that the debtor has no equity in the property. The debtor bears the burden on all other issues, including whether the property is necessary for an effective reorganization. This split burden means the creditor must come with valuation evidence.
+
+Is the 362(d)(2) test different in Chapter 7 versus Chapter 13?
+
+Yes, significantly. In Chapter 7, there is no reorganization, so the second prong (necessary for effective reorganization) is essentially unavailable. If the creditor proves no equity in Chapter 7, the test is met. In Chapter 13, the debtor can argue that the property is necessary for reorganization -- for example, a car needed for commuting to work -- which defeats the motion even if there is no equity.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Relief from Stay for Mortgage Foreclosure -- Stopping and Responding
+Source: https://relieffromstay.org/mortgage-foreclosure.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+Relief from Stay -- Mortgage Foreclosure
+
+The mortgage lender's motion for relief from stay is the most common contested motion in consumer bankruptcy. How the process works, your rights, and how Chapter 13 can save your home.
+
+Home » Relief from Stay » Mortgage Foreclosure
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+Why Mortgage Lenders File for Relief from Stay
+
+Mortgage foreclosure is the single most common reason creditors file motions for relief from the automatic stay. When a homeowner files bankruptcy, any pending foreclosure proceedings are immediately halted. The mortgage company cannot proceed with the sale, cannot send the property to auction, and cannot evict the homeowner. For a lender with a delinquent borrower, this is a significant obstacle.
+
+The lender's primary tool for removing that obstacle is a motion for relief from stay under 11 U.S.C. Section 362(d). If the court grants the motion, the lender can resume foreclosure as if the bankruptcy had not been filed -- but only with respect to the specific property covered by the order.
+
+Mortgage lenders are sophisticated repeat players in bankruptcy court. Most large servicers file thousands of relief from stay motions per year across the country. They use standardized forms, dedicated bankruptcy departments, and experienced counsel. Understanding their playbook is essential for any debtor trying to save a home.
+
+Grounds for Relief on Mortgages
+
+Mortgage lenders typically invoke two or three grounds under Section 362(d):
+
+362(d)(1) -- For Cause (Lack of Adequate Protection)
+
+The most common argument. The lender claims that the debtor has missed post-petition mortgage payments, that the property may be deteriorating, or that insurance has lapsed. The "cause" analysis is broad: any significant threat to the lender's collateral position can constitute cause. Common specific grounds include:
+
+Pre-petition default of several months or more
+
+Missed post-petition mortgage payments (the single strongest ground)
+
+Failure to maintain homeowner's insurance
+
+Failure to pay property taxes, allowing tax liens to accrue ahead of the mortgage
+
+Property deterioration or waste
+
+No reasonable prospect that the debtor can cure the arrearage
+
+362(d)(2) -- No Equity and Not Necessary for Reorganization
+
+The lender argues that the mortgage balance exceeds the property's value (no equity) and that the property is not necessary for an effective reorganization. In Chapter 13, this second prong is difficult for the lender to win -- a debtor's primary residence is almost always necessary for reorganization. In Chapter 7, where there is no reorganization, the lender only needs to prove no equity.
+
+362(d)(3) -- Single Asset Real Estate
+
+This ground applies to investment properties (not primary residences with fewer than four units). If the debtor owns a single investment property that generates substantially all income, the lender can get relief unless the debtor files a feasible plan or starts making interest payments within 30 days. This provision was designed to prevent investors from using bankruptcy solely to delay foreclosure on non-residential properties.
+
+Important distinction: The single asset real estate exception under 362(d)(3) does not apply to your primary residence if it has fewer than four residential units. A single-family home, duplex, or triplex where you live is excluded from this provision. It targets commercial and investment properties.
+
+The Chapter 13 Advantage: Curing Mortgage Arrears
+
+Chapter 13 is the primary bankruptcy tool for saving a home from foreclosure. Section 1322(b)(5) allows the debtor to cure pre-petition mortgage arrears through the Chapter 13 plan while maintaining current payments directly to the lender going forward.
+
+Here is how it works:
+
+Current payments continue. The debtor must make all post-petition mortgage payments on time, directly to the lender, starting the month after filing.
+
+Arrearage is spread over the plan. The total pre-petition arrearage (including fees and costs) is paid through the Chapter 13 plan over three to five years.
+
+At plan completion, the mortgage is current. When the debtor completes all plan payments, the mortgage arrearage is fully cured, and the debtor emerges from bankruptcy current on the mortgage.
+
+This cure right is one of the most powerful features of Chapter 13. Even if the debtor is twelve months behind on the mortgage, the arrearage can be spread over 60 months of plan payments while the debtor keeps the home.
+
+The Anti-Modification Rule
+
+Section 1322(b)(2) prohibits modifying the rights of a creditor whose claim is secured only by the debtor's principal residence. This means the debtor generally cannot reduce the interest rate, extend the term, or strip down the principal balance of a first mortgage on a primary residence through the Chapter 13 plan. The arrearage can be cured, but the underlying loan terms must be maintained.
+
+However, if the mortgage is on property that is not the debtor's principal residence, or if the property has multiple liens, different rules may apply. Lien stripping may be available for wholly unsecured junior liens -- a powerful tool that can eliminate second mortgages entirely.
+
+Chapter 7 and Mortgage Foreclosure
+
+Chapter 7 provides no mechanism to cure mortgage arrears. If you are behind on your mortgage and file Chapter 7, your options are limited:
+
+Reaffirm and stay current. If you can resume payments and the lender agrees, you may be able to keep the home. But you cannot cure past-due amounts through the bankruptcy.
+
+Surrender the property. You give up the home, the lender forecloses, and any deficiency is discharged.
+
+Convert to Chapter 13. If you realize you need the arrearage cure tool, you can convert your Chapter 7 case to Chapter 13 (subject to eligibility requirements under Section 707(b)).
+
+In Chapter 7, the mortgage lender's motion for relief from stay is usually straightforward. There is no reorganization to protect, and if the debtor has no equity, both prongs of 362(d)(2) are met. Courts routinely grant these motions unless the debtor demonstrates a concrete plan to become current.
+
+Key takeaway: If saving your home is the primary goal, Chapter 13 is almost always the better choice. The arrearage cure right under 1322(b)(5) is the strongest weapon against mortgage foreclosure in bankruptcy law.
+
+How to Respond to a Mortgage Relief from Stay Motion
+
+If your mortgage lender files for relief from stay, time is critical. Here is the step-by-step approach:
+
+1. Read the Motion Carefully
+
+Identify which grounds the lender is using. Check the stated arrearage amount, the property value claimed, and the specific facts alleged. Errors in the lender's motion can be powerful ammunition at the hearing.
+
+2. File a Written Response
+
+Most courts require a written response within 14 days (check your local rules). Your response should address each ground asserted and present your defenses. If you are in Chapter 13, emphasize the plan's cure provisions.
+
+3. Propose Adequate Protection
+
+Offer to make the regular monthly mortgage payment going forward, starting immediately. If you have already missed post-petition payments, propose to catch up. Courts are far more sympathetic to debtors who are actively trying to protect the lender's interest.
+
+4. Gather Evidence
+
+Bring proof of income, proof of insurance, payment records, and if possible, a recent property valuation showing equity. If the lender's arrearage figure is wrong, bring your own payment history showing the correct amount.
+
+5. Attend the Hearing
+
+Never fail to appear. If you do not show up, the court will grant the motion as unopposed. At the hearing, be prepared to explain your plan for maintaining current payments and curing the arrearage.
+
+6. Consider a Consent Order
+
+In many cases, the best outcome is a negotiated consent order. The debtor agrees to make specific payments by specific dates, and the lender agrees not to foreclose as long as those payments are made. If the debtor misses a trigger payment, the lender can act immediately without another hearing.
+
+What Happens If the Lender Wins
+
+If the court grants relief from stay on your mortgage, the lender can resume foreclosure under state law. The specific process and timeline depend on your state -- judicial foreclosure states require a court proceeding, while non-judicial foreclosure states allow the lender to proceed through a trustee sale.
+
+However, even after relief from stay is granted:
+
+The bankruptcy case continues. Your discharge of other debts is not affected.
+
+The state foreclosure process takes time. In many states, foreclosure takes months even after the stay is lifted.
+
+You may still have options: negotiate a loan modification with the lender, sell the property, or convert to Chapter 13 if you are currently in Chapter 7.
+
+Do not ignore the motion. The 30-day rule under Section 362(e) means the stay terminates automatically if the court does not act within 30 days. If you fail to respond and fail to appear, you could lose your home without ever being heard.
+
+Frequently Asked Questions
+
+Can I stop a foreclosure by filing bankruptcy?
+
+Yes. Filing bankruptcy triggers the automatic stay under Section 362, which immediately halts all foreclosure activity. In Chapter 13, you can cure mortgage arrears through the plan under Section 1322(b)(5) while maintaining current payments going forward. However, the mortgage company can file a motion for relief from stay if you fall behind on post-petition payments or fail to provide adequate protection.
+
+What is the single asset real estate exception?
+
+Under Section 362(d)(3), if the debtor's principal asset is a single property (other than residential property with fewer than four units) that generates substantially all of the debtor's income, the creditor can obtain relief from stay unless the debtor files a feasible plan or begins making monthly interest payments within 30 days. This provision targets investment properties, not primary residences.
+
+Can a mortgage company foreclose during Chapter 13?
+
+Not while the automatic stay is in effect. The mortgage company must obtain relief from stay by filing a motion and proving grounds under Section 362(d). If the debtor is current on post-petition payments and the Chapter 13 plan provides for curing the arrearage, courts typically deny the motion. If the debtor falls behind on post-petition payments, the court is much more likely to grant relief.
+
+What happens to my mortgage if I file Chapter 7?
+
+Chapter 7 does not provide a mechanism to cure mortgage arrears. You can keep the home by reaffirming the debt and staying current on payments, or you can surrender it. If you are behind on payments, the mortgage company will likely obtain relief from stay in Chapter 7 because there is no reorganization to protect. Chapter 13 is generally the better option for saving a home from foreclosure.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## In Rem Relief from Stay Against Serial Filers -- Section 362(d)(4)
+Source: https://relieffromstay.org/serial-filer.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+In Rem Relief from Stay -- Serial Filers
+
+Section 362(d)(4) allows courts to grant relief that attaches to the property itself -- effective for two years, binding on future filers, and the strongest tool against serial filing abuse.
+
+Home » Relief from Stay » Serial Filer / In Rem Relief
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+What Is Section 362(d)(4)?
+
+Section 362(d)(4) is the most powerful form of relief from stay available in the Bankruptcy Code. It provides that the court shall grant relief if the court finds that the filing of the petition was part of a scheme to delay, hinder, or defraud creditors that involved either:
+
+Transfer of all or part ownership of, or other interest in, the property without the consent of the secured creditor or court approval, or
+
+Multiple bankruptcy filings affecting the property.
+
+What makes this provision uniquely powerful is that the relief is in rem -- it attaches to the property, not the debtor. This means the order survives transfers of the property and is effective against any future bankruptcy filing by any person involving that property.
+
+The Classic Serial Filing Scheme
+
+Section 362(d)(4) was enacted to combat a specific pattern of abuse. The classic scheme works like this:
+
+The property owner faces foreclosure. A foreclosure sale is scheduled.
+
+The owner files bankruptcy. The automatic stay halts the foreclosure.
+
+The bankruptcy case is eventually dismissed (often for failure to file required documents, failure to pay fees, or failure to propose a feasible plan).
+
+The creditor reschedules the foreclosure sale.
+
+Before the sale can occur, the owner transfers the property to a relative, friend, or shell entity.
+
+The new owner files a new bankruptcy case. A new automatic stay halts the foreclosure again.
+
+This cycle repeats, potentially for years, while the creditor is unable to enforce its lien.
+
+Before Section 362(d)(4) was enacted (as part of BAPCPA in 2005), creditors had limited tools to break this cycle. Each new bankruptcy filing triggered a new automatic stay, and the creditor had to file a new motion for relief each time. The in rem provision was Congress's solution.
+
+How In Rem Relief Works
+
+Binding on the Property
+
+An in rem order under 362(d)(4) is effective against the property itself, not just the current owner. If the property is transferred to a new owner who files bankruptcy, the automatic stay does not protect the property. The creditor can proceed with foreclosure or other remedies without filing a new motion for relief.
+
+Duration: Two Years
+
+In rem relief is typically effective for a period of two years from the date of the order. During this period, no bankruptcy filing by any person will generate an automatic stay as to the covered property. After two years, normal automatic stay rules apply again.
+
+Recording Requirement
+
+For the in rem order to be effective against subsequent purchasers or transferees, the order must be recorded in the applicable public records -- typically the county recorder's office where the property is located. This is analogous to recording a lis pendens. If the order is not recorded, a bona fide purchaser without actual knowledge of the order might argue it is not bound by it.
+
+This is the nuclear option in stay litigation. In rem relief effectively removes the property from bankruptcy protection for two years, regardless of ownership changes. Courts do not grant it lightly, but when the evidence shows a clear scheme to abuse the bankruptcy process, it is a decisive remedy.
+
+What the Creditor Must Prove
+
+To obtain in rem relief under 362(d)(4), the creditor must establish:
+
+A scheme to delay, hinder, or defraud -- The filing must be part of a deliberate pattern of conduct aimed at frustrating the creditor's rights. A single bankruptcy filing by a debtor with legitimate financial difficulties is not a scheme.
+
+Transfer of ownership OR multiple filings -- The scheme must involve one of these two elements. Unauthorized transfers followed by new filings are the most common pattern. But multiple filings by the same debtor affecting the same property can also qualify.
+
+Connection to the property -- The scheme must specifically involve the property for which in rem relief is sought.
+
+Courts examine the totality of the circumstances. Relevant factors include the number and timing of filings, whether cases were dismissed for procedural failures, whether the debtor made any meaningful progress in prior cases, whether property was transferred without the creditor's knowledge, and whether the debtor has legitimate debts beyond the mortgage.
+
+Interaction with Other Serial Filer Provisions
+
+Section 362(d)(4) works alongside other provisions that address repeat and serial filers:
+
+Section 362(c)(3) -- If a debtor had one prior case dismissed within the past year, the automatic stay in the new case terminates after 30 days unless the debtor moves to extend it by demonstrating good faith.
+
+Section 362(c)(4) -- If a debtor had two or more prior cases dismissed within the past year, no automatic stay goes into effect at all. The debtor must affirmatively request the stay.
+
+Section 109(g) -- Bars a debtor from refiling for 180 days after a case is dismissed for willful failure to abide by court orders or for voluntary dismissal after a creditor sought relief from stay.
+
+Serial filer analysis -- The broader pattern of serial filing, including statistical analysis of repeat filing rates across jurisdictions.
+
+These provisions work as a graduated system: 362(c)(3) imposes a 30-day sunset, 362(c)(4) eliminates the stay entirely, 109(g) bars refiling for 180 days, and 362(d)(4) provides property-specific relief for two years. Together, they provide courts with flexible tools to address varying degrees of abuse.
+
+Defending Against an In Rem Motion
+
+If a creditor seeks in rem relief against you, the stakes are extremely high. Your defenses include:
+
+No scheme exists -- Demonstrate that your filing was in good faith, not part of a pattern. Show legitimate debts, a realistic plan, and genuine financial need for bankruptcy protection.
+
+No unauthorized transfer -- If the creditor alleges a transfer, show that the transfer was authorized by the court, occurred before the creditor's lien attached, or was a normal arms-length transaction unrelated to any scheme.
+
+Changed circumstances -- Even if prior filings were problematic, show that your current situation is different. New income, new debts, a feasible plan that did not exist before.
+
+Legitimate purpose -- The bankruptcy serves a genuine purpose beyond delaying this one creditor. You have other debts being addressed, you are making plan payments, you are cooperating with the trustee.
+
+If you are a legitimate debtor who has filed multiple times due to genuine financial distress (job loss, medical bills, divorce), make sure the court understands the difference between bad luck and bad faith. Courts can distinguish between serial abuse and repeated genuine need for bankruptcy protection.
+
+Frequently Asked Questions
+
+What is in rem relief from stay?
+
+In rem relief under Section 362(d)(4) attaches to the property itself rather than to the debtor. Once granted, the relief remains effective for two years. Even if the property is transferred to a new owner who files a new bankruptcy case, the automatic stay will not protect the property. The order must be recorded in the county records where the property is located to be effective against future transferees.
+
+What is a scheme to delay, hinder, or defraud under 362(d)(4)?
+
+A scheme typically involves either transferring property ownership without the secured creditor's consent (often to a relative or shell entity that then files bankruptcy), or multiple bankruptcy filings affecting the same property (file, get the stay, dismiss, refile). Courts look at the pattern of conduct, the timing of filings, and whether there is any legitimate bankruptcy purpose beyond delaying the creditor.
+
+How long does in rem relief last?
+
+In rem relief under Section 362(d)(4) is typically effective for two years from the date the order is entered. During that period, no automatic stay will protect the property in any bankruptcy case, regardless of who files. After two years, the property is again subject to the normal automatic stay rules if a new bankruptcy case is filed.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Relief from Stay Hearing Timeline -- How Long Does It Take?
+Source: https://relieffromstay.org/timeline.html
+
+Skip to main content
+
+relieffromstay.org
+☰
+
+Home
+Car Repo
+Foreclosure
+For Cause
+Lack of Equity
+Respond
+Timeline
+
+Relief from Stay Hearing Timeline
+
+How long the process takes from motion to ruling -- the 30-day automatic termination rule under Section 362(e), typical hearing schedules, emergency relief, and continuances.
+
+Home » Relief from Stay » Timeline
+
+Part of the Open Bankruptcy Project -- free, open-source bankruptcy information. No ads, no lead generation, no strings attached.
+
+The 30-Day Rule -- Section 362(e)(1)
+
+Section 362(e)(1) contains one of the most consequential deadlines in bankruptcy law: if the court does not commence a final hearing within 30 days after a request for relief from stay is made, the automatic stay is automatically terminated as to the party that requested relief.
+
+This is not a discretionary deadline. It is not subject to the court's schedule or workload. If 30 days pass without a final hearing commencing (or without the hearing being continued with the debtor's consent), the stay ceases to exist as to that creditor, by operation of law. The creditor can then proceed with its state-law remedies immediately.
+
+The 30-day rule exists because Congress recognized that the automatic stay imposes real costs on creditors. A mortgage company that cannot foreclose, a car lender that cannot repossess, a landlord that cannot evict -- each loses money every day the stay remains in effect. The 30-day deadline ensures that courts cannot simply ignore or indefinitely postpone relief from stay motions while the debtor benefits from the stay at the creditor's expense.
+
+This deadline is automatic and absolute. If you are the debtor, understand that the court is under pressure to act quickly on relief from stay motions. You cannot run out the clock. You must be prepared to respond within days, not weeks.
+
+Typical Timeline: From Filing to Ruling
+
+While every district has its own scheduling practices, the typical timeline for a relief from stay motion follows this general pattern:
+
+Day 0: Motion Filed and Served
+
+The creditor files the motion with the bankruptcy court and serves it on the debtor, the debtor's attorney (if any), and the trustee. The motion includes a notice of hearing with the response deadline and hearing date.
+
+Days 1-14: Response Period
+
+The debtor has a set period -- typically 14 days under Federal Rule of Bankruptcy Procedure 4001(a)(2), though local rules may vary -- to file a written response. Some courts set a shorter deadline. Check the notice of hearing carefully.
+
+Days 14-21: Preliminary Hearing
+
+Most courts schedule the initial hearing within 14 to 21 days of the motion. At this preliminary hearing, the court determines whether the creditor has made a sufficient initial showing and whether the matter can be resolved or needs a full evidentiary hearing.
+
+Day 21-30: Resolution or Final Hearing
+
+Many motions are resolved at the preliminary hearing -- either the court grants or denies the motion, or the parties reach a consent order. If a final evidentiary hearing is needed, it must commence within 30 days of the motion or the stay terminates.
+
+Ruling: Same Day or Shortly After
+
+Courts frequently rule from the bench at the hearing. If the judge takes the matter under advisement, the written order usually follows within a few days. The 30-day clock creates strong incentive for prompt rulings.
+
+Continuances -- Extending the 30-Day Period
+
+The 30-day automatic termination period under Section 362(e)(1) can be extended, but only with the debtor's consent. This is a critical strategic decision.
+
+When to Consent to a Continuance
+
+You need more time to gather evidence (an appraisal, payment records, insurance documentation).
+
+You are negotiating a consent order with the creditor and need a few more days to finalize terms.
+
+Your attorney has a scheduling conflict and cannot appear at the originally scheduled hearing.
+
+You are about to confirm a Chapter 13 plan that will resolve the creditor's claim, and need a short delay for confirmation to occur.
+
+When NOT to Consent
+
+You are ready to proceed and have strong defenses -- get the hearing done.
+
+The creditor is requesting a long delay that serves only the creditor's interests.
+
+You suspect the creditor is using the continuance to run up fees or gather additional evidence against you.
+
+Without your consent, the stay terminates automatically at day 30. If the court asks whether you consent to a continuance, understand what you are agreeing to: the stay continues, but so does the uncertainty. If you do not consent, the court must resolve the motion within 30 days or the stay is gone. Sometimes the pressure of the 30-day clock works in your favor -- it forces a prompt hearing where you can present your case.
+
+Emergency and Ex Parte Relief -- Section 362(f)
+
+In true emergencies, Section 362(f) allows the court to grant relief from stay without the standard notice and hearing process. The court can act "as is necessary to prevent irreparable damage to the interest of an entity in property, if such interest will suffer such damage before there is an opportunity for notice and a hearing."
+
+When Emergency Relief Is Available
+
+Ex parte relief is reserved for genuine emergencies:
+
+The debtor is actively damaging, destroying, or concealing collateral.
+
+The debtor is attempting to transfer the property to avoid the creditor's lien.
+
+The property is at imminent risk of total loss (uninsured, in a flood zone during a storm, etc.).
+
+The debtor is using the property for illegal activity that puts it at risk of forfeiture.
+
+Process for Emergency Motions
+
+The creditor files an emergency motion with supporting declarations under penalty of perjury. The court may grant temporary relief immediately -- sometimes within hours -- and schedule a full hearing within days. The debtor is entitled to notice as soon as practicable and a prompt hearing to contest the emergency relief.
+
+What Emergency Relief Looks Like
+
+Emergency orders are typically limited in scope and duration. The court may grant temporary relief from stay for a specific purpose (e.g., allowing the creditor to inspect or secure the property) and set a follow-up hearing within 7 to 14 days for the debtor to respond.
+
+The Section 362(e)(2) Exception
+
+Section 362(e)(2) provides an additional automatic termination rule: in Chapter 7, 11, or 13 cases involving individual debtors, the stay terminates 60 days after a motion for relief is filed, unless the court orders the stay continued pending a final hearing. This provision supplements the 30-day rule and provides an additional outer limit.
+
+The practical effect: even if the court begins a hearing within 30 days (satisfying 362(e)(1)), the court must enter a final order within 60 days or the stay terminates unless the court makes specific findings supporting continuation. This prevents courts from holding preliminary hearings that technically satisfy the 30-day rule but then delaying the final ruling indefinitely.
+
+Implications for How Long the Stay Lasts
+
+The timeline for relief from stay interacts with other provisions that limit the duration of the automatic stay:
+
+Section 362(c)(3) -- repeat filers: If the debtor had a prior case dismissed within the past year, the stay automatically terminates after 30 days unless the debtor moves to extend it. See 109g.org for details on the filing bar.
+
+Section 362(c)(4) -- serial filers: If the debtor had two or more prior cases dismissed within the past year, no automatic stay goes into effect at all. The debtor must affirmatively move for imposition of the stay.
+
+Section 521(a)(2) -- statement of intention: In Chapter 7, the debtor must state an intention to surrender, reaffirm, or redeem secured property within 30 days of filing. Failure to act on the stated intention within 45 days of the first meeting of creditors terminates the stay as to that property under Section 362(h).
+
+Frequently Asked Questions
+
+What is the 30-day rule for relief from stay?
+
+Under Section 362(e)(1), if the court does not commence a final hearing within 30 days after a request for relief from stay is made, the stay is automatically terminated as to the requesting party. The 30-day clock can be extended with the debtor's consent, but without consent, the stay expires automatically. This rule ensures courts cannot simply ignore relief from stay motions.
+
+How long does a typical relief from stay hearing take?
+
+Most preliminary hearings on relief from stay motions last 15 to 30 minutes. The creditor presents the motion, the debtor responds, and the court rules or sets a schedule. If the matter goes to a full evidentiary hearing (with testimony and cross-examination), it may take one to several hours. Courts typically schedule the initial hearing within 14 to 21 days of the motion being filed.
+
+Can a creditor get emergency relief from stay?
+
+Yes. Under Section 362(f), the court can grant relief from stay without a full hearing if the creditor demonstrates that its interest in property will suffer irreparable damage before there is an opportunity for a hearing on notice. This is called ex parte relief. It is granted in true emergencies -- such as when a debtor is actively damaging collateral -- but courts require strong evidence and typically schedule a follow-up hearing within days.
+
+Check your eligibility for a repeat bankruptcy filing:
+
+Free Discharge Screener at 1328f.com
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+The Automatic Stay Explained
+
+How the automatic stay protects you from creditors
+
+automaticstay.org →
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cease and Desist for Debt
+
+Free bankruptcy information guide
+
+ceaseanddesistdebt.com →
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+relieffromstay.org
+dischargeinjunction.com
+prosedebtors.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.

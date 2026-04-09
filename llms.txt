@@ -1,13 +1,25 @@
-# relieffromstay.org
+# Relief from Stay -- When Creditors Lift Protection [2026]
+> What is a motion for relief from stay? Learn when creditors can lift your bankruptcy protection, how to oppose, and deadlines. 2026 guide.
 
-> Guide to motions for relief from the automatic stay in bankruptcy.
+## About
+relieffromstay.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-relieffromstay.org is a free, open-source educational resource about relief from stay motions under 11 U.S.C. Section 362(d). Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://relieffromstay.org/: Guide to relief from stay -- when creditors ask to lift bankruptcy protection
+## Key Pages
+- Adequate Protection Payments in Bankruptcy: https://relieffromstay.org/adequate-protection.html
+- Motion for Relief from Stay -- Car Repossession: https://relieffromstay.org/car-repo.html
+- Consent Orders and Stipulated Relief from Stay: https://relieffromstay.org/consent-order.html
+- Relief from Stay for Cause -- Section 362(d)(1): https://relieffromstay.org/for-cause.html
+- How to Respond to a Motion for Relief from Stay: https://relieffromstay.org/how-to-respond.html
+- Relief from Stay -- When Creditors Lift Protection: https://relieffromstay.org/
+- Relief from Stay for Lack of Equity -- Section 362(d)(2): https://relieffromstay.org/lack-of-equity.html
+- Relief from Stay for Mortgage Foreclosure -- Stopping and Responding: https://relieffromstay.org/mortgage-foreclosure.html
+- In Rem Relief from Stay Against Serial Filers -- Section 362(d)(4): https://relieffromstay.org/serial-filer.html
+- Relief from Stay Hearing Timeline -- How Long Does It Take?: https://relieffromstay.org/timeline.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
