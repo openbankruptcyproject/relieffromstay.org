@@ -1,4 +1,4 @@
-# Relief from Stay -- When Creditors Lift Protection [2026]
+# Relief from Stay - When Creditors Lift Protection [2026]
 > What is a motion for relief from stay? Learn when creditors can lift your bankruptcy protection, how to oppose, and deadlines. 2026 guide.
 
 ## About
@@ -6,15 +6,17 @@ relieffromstay.org is part of the Open Bankruptcy Project (openbankruptcyproject
 
 ## Key Pages
 - Adequate Protection Payments in Bankruptcy: https://relieffromstay.org/adequate-protection.html
-- Motion for Relief from Stay -- Car Repossession: https://relieffromstay.org/car-repo.html
+- Motion for Relief from Stay - Car Repossession: https://relieffromstay.org/car-repo.html
 - Consent Orders and Stipulated Relief from Stay: https://relieffromstay.org/consent-order.html
-- Relief from Stay for Cause -- Section 362(d)(1): https://relieffromstay.org/for-cause.html
+- When Creditors Skip the Court: Unauthorized Repossession During Bankruptcy: https://relieffromstay.org/creditor-violations.html
+- Relief from Stay for Cause - Section 362(d)(1): https://relieffromstay.org/for-cause.html
 - How to Respond to a Motion for Relief from Stay: https://relieffromstay.org/how-to-respond.html
-- Relief from Stay -- When Creditors Lift Protection: https://relieffromstay.org/
-- Relief from Stay for Lack of Equity -- Section 362(d)(2): https://relieffromstay.org/lack-of-equity.html
-- Relief from Stay for Mortgage Foreclosure -- Stopping and Responding: https://relieffromstay.org/mortgage-foreclosure.html
-- In Rem Relief from Stay Against Serial Filers -- Section 362(d)(4): https://relieffromstay.org/serial-filer.html
-- Relief from Stay Hearing Timeline -- How Long Does It Take?: https://relieffromstay.org/timeline.html
+- Relief from Stay - When Creditors Lift Protection: https://relieffromstay.org/
+- Relief from Stay for Lack of Equity - Section 362(d)(2): https://relieffromstay.org/lack-of-equity.html
+- Relief from Stay for Mortgage Foreclosure - Stopping and Responding: https://relieffromstay.org/mortgage-foreclosure.html
+- In Rem Relief from Stay Against Serial Filers - Section 362(d)(4): https://relieffromstay.org/serial-filer.html
+- Relief from Stay Hearing Timeline - How Long Does It Take?: https://relieffromstay.org/timeline.html
+- Privacy Policy: https://relieffromstay.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
