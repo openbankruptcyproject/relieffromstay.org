@@ -5,50 +5,29 @@
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <!-- BTN:GA4:START -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('set', 'allow_ad_personalization_signals', false);
-  gtag('config', 'G-FTWLM223G7');
-  gtag('config', 'G-053Z64N82F');
-</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
 <!-- BTN:GA4:END -->
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Adequate Protection Payments in Bankruptcy</title>
-<meta content="Learn about adequate protection payments in bankruptcy | relieffromstay.org in our free 2026 guide. Clear explanations, real data, and pr..." name="description"/>
-<meta content="adequate protection bankruptcy, section 361, adequate protection payments, prevent relief from stay, indubitable equivalent, adequate protection car, adequate protection mortgage" name="keywords"/>
-<link href="https://relieffromstay.org/adequate-protection.html" rel="canonical"/>
-<meta content="Adequate Protection Payments in Bankruptcy" property="og:title"/>
-<meta content="Learn about adequate protection payments in bankruptcy | relieffromstay.org in our free 2026 guide. Clear explanations, real data, and pr..." property="og:description"/>
+<title>Consent Orders and Stipulated Relief from Stay</title>
+<meta content="Learn about consent orders and stipulated relief from stay | relieffromstay.org in our free 2026 guide. Clear explanations, real data, an..." name="description"/>
+<meta content="consent order relief from stay, stipulated relief stay, agreed order bankruptcy, negotiate stay relief, adequate protection consent order" name="keywords"/>
+<link href="https://relieffromstay.org/consent-order.html" rel="canonical"/>
+<meta content="Consent Orders and Stipulated Relief from Stay" property="og:title"/>
+<meta content="Learn about consent orders and stipulated relief from stay | relieffromstay.org in our free 2026 guide. Clear explanations, real data, an..." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://relieffromstay.org/adequate-protection.html" property="og:url"/>
+<meta content="https://relieffromstay.org/consent-order.html" property="og:url"/>
 <meta content="relieffromstay.org" property="og:site_name"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <link href="/manifest.json" rel="manifest"/>
 <meta content="#0d1117" name="theme-color"/>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Open Bankruptcy Project",
-  "url": "https://1328f.org",
-  "description": "Free, open-source bankruptcy information. Real information, no strings.",
-  "sameAs": ["https://1328f.com","https://1328f.org","https://automaticstay.org","https://relieffromstay.org"]
-}
+{"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org","description":"Free, open-source bankruptcy information. Real information, no strings.","sameAs":["https://1328f.com","https://1328f.org","https://automaticstay.org","https://relieffromstay.org"]}
 </script>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type":"ListItem","position":1,"name":"Open Bankruptcy Project","item":"https://relieffromstay.org"},
-    {"@type":"ListItem","position":2,"name":"Relief from Stay","item":"https://relieffromstay.org/"},
-    {"@type":"ListItem","position":3,"name":"Adequate Protection","item":"https://relieffromstay.org/adequate-protection.html"}
-  ]
-}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Open Bankruptcy Project","item":"https://relieffromstay.org"},{"@type":"ListItem","position":2,"name":"Relief from Stay","item":"https://relieffromstay.org/"},{"@type":"ListItem","position":3,"name":"Consent Order","item":"https://relieffromstay.org/consent-order.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -57,26 +36,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is adequate protection in bankruptcy?",
+      "name": "What is a consent order in a relief from stay motion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Adequate protection under 11 U.S.C. Section 361 is the mechanism that protects a secured creditor's interest in collateral during a bankruptcy case. It compensates the creditor for any decrease in the value of their collateral caused by the automatic stay. The three statutory forms are periodic cash payments, additional or replacement liens, and other relief providing the indubitable equivalent of the creditor's interest."
+        "text": "A consent order (also called a stipulated order or agreed order) is a negotiated agreement between the debtor and creditor that resolves the motion for relief from stay without a contested hearing. The debtor typically agrees to make specific payments by specific dates, and the creditor agrees to hold off on repossession or foreclosure as long as the debtor complies. The order is signed by both parties and entered by the court."
       }
     },
     {
       "@type": "Question",
-      "name": "How much are adequate protection payments for a car?",
+      "name": "What happens if I miss a payment under a consent order?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a vehicle, adequate protection payments typically equal the monthly depreciation of the vehicle plus interest accruing on the loan. In practice, many courts simply require the debtor to make the regular contractual car payment. The exact amount depends on the vehicle's age, mileage, condition, and the interest rate on the loan. Maintaining insurance on the vehicle is also considered part of adequate protection."
+        "text": "Most consent orders include an automatic relief provision - if the debtor fails to make a required payment by the specified date, the stay lifts automatically without further court hearing. The creditor can then proceed with repossession or foreclosure immediately. This is one of the most significant risks of a consent order: there is no second chance, no grace period, and no additional hearing. Comply with every term, on time, every time."
       }
     },
     {
       "@type": "Question",
-      "name": "What happens if I stop making adequate protection payments?",
+      "name": "Should I agree to a consent order or fight the motion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If you fail to make adequate protection payments, the creditor can file a motion for relief from stay under Section 362(d)(1), arguing that its interest is no longer adequately protected. Courts routinely grant these motions when the debtor has stopped making payments. If a consent order already requires adequate protection payments, the creditor may be able to act without a new hearing by invoking the automatic relief provision in the consent order."
+        "text": "It depends on your circumstances. If you have strong defenses and can win at a hearing, fighting may be better. If your position is weak - you have missed multiple payments with no realistic way to catch up - a consent order may be your best chance to keep the property by committing to a concrete payment plan. Many experienced bankruptcy attorneys recommend consent orders because they provide certainty and often include better terms than a court-imposed order after a contested hearing."
       }
     }
   ]
@@ -88,8 +67,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Adequate Protection Payments in Bankruptcy",
-      "description": "Section 361 adequate protection in bankruptcy: periodic cash payments, replacement liens, and the indubitable equivalent standard. How to calculate adequate pro",
+      "headline": "Consent Orders and Stipulated Relief from Stay",
+      "description": "Negotiating a consent order on a motion for relief from stay. What stipulated orders include, benefits and risks, automatic relief triggers, and how to negotiat",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -101,12 +80,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://relieffromstay.org/adequate-protection.html"
+      "mainEntityOfPage": "https://relieffromstay.org/consent-order.html"
     },
     {
       "@type": "WebPage",
-      "name": "Adequate Protection Payments in Bankruptcy",
-      "url": "https://relieffromstay.org/adequate-protection.html",
+      "name": "Consent Orders and Stipulated Relief from Stay",
+      "url": "https://relieffromstay.org/consent-order.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -124,22 +103,17 @@
   :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
   a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
   .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
   nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
-  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
-  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; } nav .site-name:hover { text-decoration: none; color: var(--accent); }
   .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
-  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
-  .nav-links a:hover { color: var(--accent); text-decoration: none; }
-  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; } .nav-links a.active { color: var(--accent); font-weight: 600; }
   .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
   header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
-  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
-  header h1 .accent { color: var(--accent); }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
   header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
   .breadcrumb { max-width: 820px; margin: 1rem auto 0; padding: 0 1.5rem; font-size: 0.85rem; color: var(--text-muted); }
   .breadcrumb a { color: var(--text-muted); } .breadcrumb a:hover { color: var(--accent); }
@@ -157,8 +131,7 @@
   .cta-box p { font-size: 0.95rem; margin-bottom: 0.75rem; }
   .cta-box a.btn { display: inline-block; background: #238636; color: #fff; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; text-decoration: none; }
   .cta-box a.btn:hover { background: #2ea043; text-decoration: none; }
-  .faq-item { border-bottom: 1px solid var(--border); padding: 1rem 0; }
-  .faq-item:last-child { border-bottom: none; }
+  .faq-item { border-bottom: 1px solid var(--border); padding: 1rem 0; } .faq-item:last-child { border-bottom: none; }
   .faq-item h3 { color: #f0f6fc; font-size: 1rem; margin-bottom: 0.5rem; cursor: default; }
   .faq-item p { color: var(--text); font-size: 0.95rem; margin-bottom: 0.5rem; }
   .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
@@ -169,38 +142,16 @@
   @media (max-width: 600px) {
     header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
     nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
-    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
-    .nav-links.open { display: flex; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; } .nav-links.open { display: flex; }
   }
 </style>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Adequate Protection Payments in Bankruptcy" name="twitter:title"/>
-<meta content="Learn about adequate protection payments in bankruptcy | relieffromstay.org in our free 2026 guide. Clear explanations, real data, and pr..." name="twitter:description"/>
+<meta content="Consent Orders and Stipulated Relief from Stay" name="twitter:title"/>
+<meta content="Learn about consent orders and stipulated relief from stay | relieffromstay.org in our free 2026 guide. Clear explanations, real data, an..." name="twitter:description"/>
 <meta content="https://relieffromstay.org/og-image.svg" property="og:image"/>
 <meta content="https://relieffromstay.org/og-image.svg" name="twitter:image"/>
-<link href="https://relieffromstay.org/adequate-protection.html" hreflang="en" rel="alternate"/>
-<link href="https://relieffromstay.org/adequate-protection-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://relieffromstay.org/consent-order.html" hreflang="en" rel="alternate"/>
+<link href="https://relieffromstay.org/consent-order-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -218,100 +169,106 @@
 </div>
 </nav>
 <header>
-<h1><span class="accent">Adequate Protection</span> Payments in Bankruptcy</h1>
-<p class="subtitle">Section 361 defines how debtors protect creditors' collateral value during bankruptcy - the key to keeping the automatic stay in place and defeating motions for relief.</p>
+<h1><span class="accent">Consent Orders</span> and Stipulated Relief from Stay</h1>
+<p class="subtitle">Often the best outcome is a negotiated agreement rather than a contested hearing. How consent orders work, what they include, and how to negotiate terms you can actually meet.</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.org">Home</a> » <a href="/">Relief from Stay</a> » <strong>Adequate Protection</strong>
+<a href="https://1328f.org">Home</a> » <a href="/">Relief from Stay</a> » <strong>Consent Orders</strong>
 </div>
 <main id="main-content">
 <div class="highlight-box success">
 <p><strong>Part of the Open Bankruptcy Project</strong> - free, open-source bankruptcy information. No ads, no lead generation, no strings attached.</p>
 </div>
 <div class="content-section">
-<h2>What Is Adequate Protection?</h2>
-<p>Adequate protection is one of the most important concepts in bankruptcy law. Under 11 U.S.C. Section 361, it is the mechanism that protects a secured creditor's interest in its collateral while the <a href="https://automaticstay.org">automatic stay</a> prevents the creditor from exercising its normal remedies.</p>
-<p>The basic principle is fairness: the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> benefits the debtor by halting collection activity, but it should not unfairly harm the creditor by allowing the collateral to lose value without compensation. Adequate protection bridges that gap. If the debtor provides adequate protection, the stay remains in place. If the debtor cannot or will not provide it, the creditor can obtain relief from stay under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(d)(1).</p>
-<p>Adequate protection comes into play in several contexts: motions for relief from stay, use of cash collateral in <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a>, and the debtor's use, sale, or lease of property under Section 363. In every context, the purpose is the same - ensure the creditor is not worse off because of the bankruptcy than it would be without it.</p>
+<h2>What Is a Consent Order?</h2>
+<p>A consent order - also called a stipulated order, agreed order, or stipulation - is a court-approved agreement between the debtor and a creditor that resolves a motion for relief from the <a href="https://automaticstay.org">automatic stay</a> without a contested hearing. Both parties negotiate the terms, sign the agreement, and submit it to the court for approval.</p>
+<p>Consent orders are extremely common in relief from stay litigation. Many experienced bankruptcy judges and practitioners consider them the preferred resolution because they provide certainty for both sides and conserve judicial resources. Instead of a hearing where one side wins and the other loses, both parties get something they can work with.</p>
+<p>The court is not required to approve a consent order. The judge reviews the terms to ensure they are fair and consistent with bankruptcy law. In practice, courts almost always approve consent orders that are reasonable on their face.</p>
 </div>
 <div class="content-section">
-<h2>Three Statutory Forms of Adequate Protection</h2>
-<p>Section 361 lists three forms that adequate protection can take:</p>
-<h3>1. Periodic Cash Payments - Section 361(1)</h3>
-<p>The most common form. The debtor makes regular payments to the creditor to offset any decrease in the value of the creditor's interest. For a depreciating asset like a vehicle, this typically means monthly payments covering interest plus depreciation. For real property, it usually means making the regular mortgage payment.</p>
-<p>The payments must be sufficient to compensate for the actual decline in value, not just a token amount. Courts look at the rate of depreciation, the interest accruing on the claim, and whether the debtor is maintaining insurance and preserving the property.</p>
-<h3>2. Additional or Replacement Lien - Section 361(2)</h3>
-<p>The debtor grants the creditor a lien on additional or replacement property to offset any decrease in the value of the original collateral. This is less common than cash payments but can be useful when the debtor has unencumbered assets available. For example, a business debtor whose equipment is depreciating might offer the creditor a lien on accounts receivable or inventory.</p>
-<p>The replacement lien must have real value. Courts will not accept a lien on assets that are already fully encumbered or that have no meaningful value.</p>
-<h3>3. Other Relief - Section 361(3)</h3>
-<p>A catch-all provision allowing any other form of protection that provides the creditor with the "indubitable equivalent" of its interest in the property. This phrase, borrowed from Judge Learned Hand's opinion in <em>In re Murel Holding Corp.</em>, 75 F.2d 941 (2d Cir. 1935), sets a high standard. The protection must be so certain and reliable that there is no reasonable doubt the creditor's interest is preserved.</p>
-<p>Examples include equity cushions (the property is worth significantly more than the debt, providing a buffer against depreciation), personal guarantees, and letters of credit.</p>
+<h2>What a Typical Consent Order Includes</h2>
+<p>While every consent order is tailored to the specific facts, most include these standard provisions:</p>
+<h3>Adequate Protection Payments</h3>
+<p>The debtor agrees to make specific <a href="/adequate-protection.html">adequate protection payments</a> - usually the regular monthly payment on the secured debt. The order specifies the exact dollar amount and the due date each month. For a mortgage, this typically means the regular PITI payment. For a car loan, it means the regular monthly payment.</p>
+<h3>Cure of Post-Petition Arrearage</h3>
+<p>If the debtor has missed post-petition payments, the order may require the debtor to cure those missed payments by a specific date - either as a lump sum or in installments over a defined period.</p>
+<h3>Insurance Requirements</h3>
+<p>The debtor must maintain insurance on the collateral and provide proof of insurance to the creditor. The order may specify minimum coverage amounts and require the creditor to be listed as a loss payee or additional insured.</p>
+<h3>Automatic Relief Trigger</h3>
+<p>This is the most critical - and most dangerous - provision. The order states that if the debtor fails to comply with any of the terms (misses a payment, lets insurance lapse, etc.), the stay is <strong>automatically lifted</strong> without further court hearing. The creditor simply files an affidavit or declaration of default with the court, and relief becomes effective.</p>
+<h3>Notice Provisions</h3>
+<p>Some consent orders require the creditor to give the debtor a short notice period (often 5 to 10 days) before the automatic relief takes effect, giving the debtor one last chance to cure. Other orders provide for immediate relief with no notice. Negotiate for a notice-and-cure provision if possible.</p>
 <div class="highlight-box warning">
-<p><strong>What adequate protection is NOT:</strong> Section 361(3) specifically provides that adequate protection cannot take the form of an administrative expense claim under Section 503(b)(1). The debtor cannot simply promise to pay the creditor at the end of the case. The protection must be tangible and current.</p>
+<p><strong>Read every word.</strong> The automatic relief trigger is the most consequential provision in the consent order. Understand exactly what will trigger automatic relief, whether you get any notice or cure period, and what the creditor can do once relief takes effect. Do not sign a consent order you cannot comply with.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>Calculating Adequate Protection Payments</h2>
-<p>The amount of adequate protection depends on the type of collateral and the specific facts of the case. Courts generally consider these factors:</p>
-<h3>For Vehicles</h3>
+<h2>Benefits of a Consent Order</h2>
+<p>For debtors, consent orders offer several significant advantages over a contested hearing:</p>
 <ul>
-<li><strong>Monthly depreciation</strong> - The decline in value based on the vehicle's age, make, model, and mileage. A newer vehicle depreciates faster in dollar terms.</li>
-<li><strong>Interest on the claim</strong> - The contractual or market interest rate applied to the outstanding loan balance.</li>
-<li><strong>Insurance</strong> - The debtor must maintain comprehensive and collision insurance. Failure to insure is itself grounds for relief from stay.</li>
-</ul>
-<p>In practice, many courts simply require the debtor to make the regular contractual car payment as adequate protection. This is a practical approximation that avoids complex depreciation calculations.</p>
-<h3>For Real Property (Mortgages)</h3>
-<ul>
-<li><strong>Regular monthly payment</strong> - For a mortgage, adequate protection typically means making the regular monthly payment (principal, interest, taxes, and insurance - PITI).</li>
-<li><strong>Property maintenance</strong> - The debtor must maintain the property in reasonable condition. Allowing the property to fall into disrepair reduces its value and can constitute a failure of adequate protection.</li>
-<li><strong>Insurance and taxes</strong> - The debtor must keep hazard insurance current and pay property taxes (or escrow them into the payment).</li>
-</ul>
-<h3>For Business Equipment</h3>
-<ul>
-<li><strong>Depreciation rate</strong> - Business equipment may depreciate at different rates depending on use, industry standards, and the equipment's remaining useful life.</li>
-<li><strong>Maintenance and insurance</strong> - The debtor must maintain and insure the equipment.</li>
-<li><strong>Revenue generation</strong> - If the equipment is producing income that will fund plan payments, this factor weighs in favor of finding adequate protection.</li>
-</ul>
-<div class="highlight-box">
-<p><strong>The equity cushion:</strong> If the property is worth significantly more than the debt, the excess equity itself may provide adequate protection. For example, if a home is worth $300,000 and the mortgage balance is $200,000, the $100,000 equity cushion protects the lender against some depreciation even without monthly payments. The size of the cushion required varies by jurisdiction, but a substantial equity cushion can defeat a relief from stay motion on its own.</p>
-</div>
-</div>
-<div class="content-section">
-<h2>When Adequate Protection Is Required</h2>
-<p>Adequate protection obligations arise in several specific contexts:</p>
-<ul>
-<li><strong>To prevent relief from stay</strong> - The most common context. Under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(d)(1), "lack of adequate protection" is the primary example of "cause" for lifting the stay. If you are providing adequate protection, the creditor's motion should fail.</li>
-<li><strong>Use of cash collateral</strong> - In <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a>, the debtor must provide adequate protection to use cash collateral (Section 363(c)(2)). Cash collateral includes bank accounts, rents, and proceeds from collateral.</li>
-<li><strong>Use, sale, or lease of property</strong> - Under Section 363(e), any party with an interest in property can request adequate protection as a condition of the debtor's use of that property.</li>
-<li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a></strong> - Under <a href="https://chapter13plan.org/secured-debts.html">Section 1325(a)(5)(B)</a>, the debtor's plan must provide adequate protection of each secured creditor's interest as a condition of confirmation.</li>
+<li><strong>You keep the property.</strong> As long as you comply with the terms, the creditor cannot repossess, foreclose, or take other action.</li>
+<li><strong>Certainty.</strong> You know exactly what you need to do and when. No surprises at a hearing.</li>
+<li><strong>Negotiated terms.</strong> You can negotiate the payment amount, due dates, cure schedule, and notice provisions. A court-imposed order after a hearing may be less favorable.</li>
+<li><strong>No adverse ruling.</strong> A consent order avoids the risk that the court grants outright relief. If you lose at a hearing, you lose the property. A consent order gives you a path to keep it.</li>
+<li><strong><a href="https://chapter13plan.org/" title="good faith">Good faith</a> signal.</strong> Entering into a consent order demonstrates to the court and the trustee that you are acting in <a href="https://chapter13plan.org/" title="good faith">good faith</a> and cooperating with creditors.</li>
+<li><strong>Saves time and money.</strong> No hearing preparation, no evidence gathering, no attorney fees for court appearances. The negotiation often happens by phone or email.</li>
 </ul>
 </div>
 <div class="content-section">
-<h2>Failure of Adequate Protection</h2>
-<p>If the debtor fails to provide adequate protection, the consequences can be severe:</p>
+<h2>Risks of a Consent Order</h2>
+<p>Consent orders are not risk-free. Understand the downsides before agreeing:</p>
 <ul>
-<li><strong>Relief from stay granted</strong> - The creditor can repossess, foreclose, or otherwise enforce its lien.</li>
-<li><strong>Superpriority claim</strong> - Under Section 507(b), if adequate protection proves inadequate (the creditor's collateral declines in value despite adequate protection payments), the creditor receives a superpriority administrative expense claim. This claim has priority over all other administrative expenses, including attorney fees and trustee commissions.</li>
-<li><strong>Loss of the asset</strong> - In practical terms, failing to provide adequate protection almost always results in losing the collateral, which can derail a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> or Chapter 11 reorganization.</li>
+<li><strong>Automatic relief is absolute.</strong> If you miss a payment by even one day (in orders without a grace period), the stay lifts automatically. No second hearing, no second chance. The creditor can act immediately.</li>
+<li><strong>You waive your right to contest.</strong> By agreeing to the consent order, you are usually waiving your right to oppose the motion at a hearing. If you cannot comply with the terms, you cannot go back and argue the motion should be denied.</li>
+<li><strong>Terms may be aggressive.</strong> Creditors' attorneys draft consent orders to favor their clients. The proposed payment schedule may be too tight, the cure deadline too soon, or the conditions too strict. Do not sign the creditor's first draft without negotiating.</li>
+<li><strong>May not account for future problems.</strong> If your financial situation worsens (job loss, medical emergency), the consent order does not care. The terms are fixed, and failure to comply is failure to comply, regardless of the reason.</li>
 </ul>
 <div class="highlight-box danger">
-<p><strong>The superpriority trap:</strong> If the court orders adequate protection and the collateral still loses value, the creditor gets a Section 507(b) superpriority claim for the shortfall. This claim jumps ahead of all other administrative expenses in the case. In Chapter 11, this can consume estate assets that would otherwise fund the reorganization.</p>
+<p><strong>The biggest risk:</strong> Agreeing to terms you cannot realistically meet. If your income is uncertain, if you are barely making ends meet, or if you have a history of missing payments, a consent order with tight deadlines and automatic relief provisions is a trap. Be honest with yourself about what you can actually do before signing.</p>
 </div>
+</div>
+<div class="content-section">
+<h2>How to Negotiate a Consent Order</h2>
+<p>Negotiation typically happens between the debtor (or debtor's counsel) and the creditor's attorney before or at the hearing. Here are practical tips:</p>
+<h3>Start with a Realistic Proposal</h3>
+<p>Before responding to the creditor's draft, calculate what you can actually pay each month after all essential expenses. Do not promise more than you can deliver. A consent order you cannot comply with is worse than no consent order at all.</p>
+<h3>Negotiate a Cure Period</h3>
+<p>Ask for a cure period in the automatic relief provision. Instead of immediate relief upon default, propose that the creditor must give you 7 to 14 days written notice of default, during which you can cure the missed payment. Many creditors will agree to a short cure period.</p>
+<h3>Specify Payment Method and Address</h3>
+<p>Include clear instructions on where and how to send payments. This avoids disputes about whether payments were received on time. If paying by mail, build in extra time for delivery.</p>
+<h3>Address the Arrearage Realistically</h3>
+<p>If you owe back payments, negotiate a reasonable cure schedule. Proposing to cure three months of arrears in one lump sum next week is not realistic. Spreading the cure over several months is more achievable.</p>
+<h3>Get Everything in Writing</h3>
+<p>The consent order must be in writing, signed by both parties, and entered by the court. Verbal agreements are not enforceable. Make sure the signed order matches what you negotiated.</p>
+<h3>Consider Your <a href="https://chapter13plan.org">Chapter 13 Plan</a></h3>
+<p>If you are in <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, coordinate the consent order terms with your plan. The plan should provide for the creditor's claim in a way that is consistent with the consent order. Conflicting obligations create problems.</p>
+</div>
+<div class="content-section">
+<h2>When to Reject a Consent Order</h2>
+<p>A consent order is not always the right choice. Consider fighting the motion at a hearing if:</p>
+<ul>
+<li>You have strong defenses that are likely to result in the motion being denied.</li>
+<li>The creditor's proposed terms are unreasonable and they refuse to negotiate.</li>
+<li>The creditor has weak evidence or procedural defects in the motion.</li>
+<li>You can demonstrate that you are current on payments and the motion is baseless.</li>
+<li>You need the court to make specific findings of fact that benefit your case.</li>
+</ul>
+<p>See <a href="/how-to-respond.html">How to Respond to a Motion for Relief from Stay</a> for a complete guide to contesting the motion.</p>
 </div>
 <!-- FAQ -->
 <div class="content-section" id="faq">
 <h2>Frequently Asked Questions</h2>
 <div class="faq-item">
-<h3>What is adequate protection in bankruptcy?</h3>
-<p>Adequate protection under 11 U.S.C. Section 361 is the mechanism that protects a secured creditor's interest in collateral during a bankruptcy case. It compensates the creditor for any decrease in the value of their collateral caused by the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>. The three statutory forms are periodic cash payments, additional or replacement liens, and other relief providing the indubitable equivalent of the creditor's interest.</p>
+<h3>What is a consent order in a relief from stay motion?</h3>
+<p>A consent order (also called a stipulated order or agreed order) is a negotiated agreement between the debtor and creditor that resolves the motion for relief from stay without a contested hearing. The debtor typically agrees to make specific payments by specific dates, and the creditor agrees to hold off on repossession or foreclosure as long as the debtor complies. The order is signed by both parties and entered by the court.</p>
 </div>
 <div class="faq-item">
-<h3>How much are adequate protection payments for a car?</h3>
-<p>For a vehicle, adequate protection payments typically equal the monthly depreciation of the vehicle plus interest accruing on the loan. In practice, many courts simply require the debtor to make the regular contractual car payment. The exact amount depends on the vehicle's age, mileage, condition, and the interest rate on the loan. Maintaining insurance on the vehicle is also considered part of adequate protection.</p>
+<h3>What happens if I miss a payment under a consent order?</h3>
+<p>Most consent orders include an automatic relief provision - if the debtor fails to make a required payment by the specified date, the stay lifts automatically without further court hearing. The creditor can then proceed with repossession or foreclosure immediately. This is one of the most significant risks of a consent order: there is no second chance, no grace period, and no additional hearing. Comply with every term, on time, every time.</p>
 </div>
 <div class="faq-item">
-<h3>What happens if I stop making adequate protection payments?</h3>
-<p>If you fail to make adequate protection payments, the creditor can file a motion for relief from stay under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(d)(1), arguing that its interest is no longer adequately protected. Courts routinely grant these motions when the debtor has stopped making payments. If a consent order already requires adequate protection payments, the creditor may be able to act without a new hearing by invoking the automatic relief provision in the consent order.</p>
+<h3>Should I agree to a consent order or fight the motion?</h3>
+<p>It depends on your circumstances. If you have strong defenses and can win at a hearing, fighting may be better. If your position is weak - you have missed multiple payments with no realistic way to catch up - a consent order may be your best chance to keep the property by committing to a concrete payment plan. Many experienced bankruptcy attorneys recommend consent orders because they provide certainty and often include better terms than a court-imposed order after a contested hearing.</p>
 </div>
 </div>
 <div class="cta-box">
@@ -374,7 +331,7 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=relieffromstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=relieffromstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=relieffromstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=relieffromstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 </ul>
 </div>
@@ -398,7 +355,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=relieffromstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=relieffromstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=relieffromstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

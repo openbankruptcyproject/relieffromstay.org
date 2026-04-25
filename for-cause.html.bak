@@ -5,50 +5,29 @@
 <link href="https://www.googletagmanager.com" rel="preconnect"/>
 <!-- BTN:GA4:START -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('set', 'allow_ad_personalization_signals', false);
-  gtag('config', 'G-FTWLM223G7');
-  gtag('config', 'G-053Z64N82F');
-</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
 <!-- BTN:GA4:END -->
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Adequate Protection Payments in Bankruptcy</title>
-<meta content="Learn about adequate protection payments in bankruptcy | relieffromstay.org in our free 2026 guide. Clear explanations, real data, and pr..." name="description"/>
-<meta content="adequate protection bankruptcy, section 361, adequate protection payments, prevent relief from stay, indubitable equivalent, adequate protection car, adequate protection mortgage" name="keywords"/>
-<link href="https://relieffromstay.org/adequate-protection.html" rel="canonical"/>
-<meta content="Adequate Protection Payments in Bankruptcy" property="og:title"/>
-<meta content="Learn about adequate protection payments in bankruptcy | relieffromstay.org in our free 2026 guide. Clear explanations, real data, and pr..." property="og:description"/>
+<title>Relief from Stay for Cause - Section 362(d)(1)</title>
+<meta content="Learn about relief from stay for cause - section 362(d)(1) | relieffromstay.org in our free 2026 guide." name="description"/>
+<meta content="relief from stay for cause, 362(d)(1), lack of adequate protection, cause bankruptcy stay, missed payments stay relief, bad faith filing stay" name="keywords"/>
+<link href="https://relieffromstay.org/for-cause.html" rel="canonical"/>
+<meta content="Relief from Stay for Cause - Section 362(d)(1)" property="og:title"/>
+<meta content="Learn about relief from stay for cause - section 362(d)(1) | relieffromstay.org in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://relieffromstay.org/adequate-protection.html" property="og:url"/>
+<meta content="https://relieffromstay.org/for-cause.html" property="og:url"/>
 <meta content="relieffromstay.org" property="og:site_name"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <link href="/manifest.json" rel="manifest"/>
 <meta content="#0d1117" name="theme-color"/>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Open Bankruptcy Project",
-  "url": "https://1328f.org",
-  "description": "Free, open-source bankruptcy information. Real information, no strings.",
-  "sameAs": ["https://1328f.com","https://1328f.org","https://automaticstay.org","https://relieffromstay.org"]
-}
+{"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org","description":"Free, open-source bankruptcy information. Real information, no strings.","sameAs":["https://1328f.com","https://1328f.org","https://automaticstay.org","https://relieffromstay.org"]}
 </script>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type":"ListItem","position":1,"name":"Open Bankruptcy Project","item":"https://relieffromstay.org"},
-    {"@type":"ListItem","position":2,"name":"Relief from Stay","item":"https://relieffromstay.org/"},
-    {"@type":"ListItem","position":3,"name":"Adequate Protection","item":"https://relieffromstay.org/adequate-protection.html"}
-  ]
-}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Open Bankruptcy Project","item":"https://relieffromstay.org"},{"@type":"ListItem","position":2,"name":"Relief from Stay","item":"https://relieffromstay.org/"},{"@type":"ListItem","position":3,"name":"For Cause","item":"https://relieffromstay.org/for-cause.html"}]}
 </script>
 <script type="application/ld+json">
 {
@@ -57,26 +36,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is adequate protection in bankruptcy?",
+      "name": "What counts as cause for relief from stay under 362(d)(1)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Adequate protection under 11 U.S.C. Section 361 is the mechanism that protects a secured creditor's interest in collateral during a bankruptcy case. It compensates the creditor for any decrease in the value of their collateral caused by the automatic stay. The three statutory forms are periodic cash payments, additional or replacement liens, and other relief providing the indubitable equivalent of the creditor's interest."
+        "text": "The Bankruptcy Code does not define 'cause.' Courts have found cause in many situations, including: failure to make post-petition payments, lack of insurance on collateral, property deterioration or waste, bad faith filing, no reasonable prospect of reorganization, and repeated defaults despite prior agreements. Lack of adequate protection is the most commonly cited form of cause."
       }
     },
     {
       "@type": "Question",
-      "name": "How much are adequate protection payments for a car?",
+      "name": "Who has the burden of proof for 'cause' under 362(d)(1)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a vehicle, adequate protection payments typically equal the monthly depreciation of the vehicle plus interest accruing on the loan. In practice, many courts simply require the debtor to make the regular contractual car payment. The exact amount depends on the vehicle's age, mileage, condition, and the interest rate on the loan. Maintaining insurance on the vehicle is also considered part of adequate protection."
+        "text": "Under Section 362(g), the burden of proof is split. The creditor bears the burden on the issue of the debtor's equity in property. On all other issues - including whether cause exists - the party opposing relief (the debtor) bears the burden. This means once the creditor raises a colorable argument for cause, the debtor must affirmatively show why the stay should remain in effect."
       }
     },
     {
       "@type": "Question",
-      "name": "What happens if I stop making adequate protection payments?",
+      "name": "Can bad faith filing be considered cause for lifting the stay?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If you fail to make adequate protection payments, the creditor can file a motion for relief from stay under Section 362(d)(1), arguing that its interest is no longer adequately protected. Courts routinely grant these motions when the debtor has stopped making payments. If a consent order already requires adequate protection payments, the creditor may be able to act without a new hearing by invoking the automatic relief provision in the consent order."
+        "text": "Yes. If the court finds that the bankruptcy was filed primarily to delay a creditor rather than for a legitimate bankruptcy purpose, the filing may be considered 'bad faith' and constitute cause for relief from stay. Courts look at factors such as the timing of the filing, the debtor's history of filings, whether the debtor has any realistic reorganization plan, and whether the case was filed on the eve of a foreclosure or other creditor action."
       }
     }
   ]
@@ -88,8 +67,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Adequate Protection Payments in Bankruptcy",
-      "description": "Section 361 adequate protection in bankruptcy: periodic cash payments, replacement liens, and the indubitable equivalent standard. How to calculate adequate pro",
+      "headline": "Relief from Stay for Cause",
+      "description": "Section 362(d)(1) relief from stay for cause, including lack of adequate protection. The broadest ground for lifting the automatic stay - what counts as cause,",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -101,12 +80,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://relieffromstay.org/adequate-protection.html"
+      "mainEntityOfPage": "https://relieffromstay.org/for-cause.html"
     },
     {
       "@type": "WebPage",
-      "name": "Adequate Protection Payments in Bankruptcy",
-      "url": "https://relieffromstay.org/adequate-protection.html",
+      "name": "Relief from Stay for Cause",
+      "url": "https://relieffromstay.org/for-cause.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -124,22 +103,17 @@
   :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
   * { margin: 0; padding: 0; box-sizing: border-box; }
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
-  a { color: var(--accent); text-decoration: none; }
-  a:hover { text-decoration: underline; }
+  a { color: var(--accent); text-decoration: none; } a:hover { text-decoration: underline; }
   a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   .skip-link { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 9999; padding: 1rem; background: #238636; color: #fff; font-weight: 600; text-decoration: none; }
   .skip-link:focus { position: fixed; top: 10px; left: 10px; width: auto; height: auto; overflow: visible; }
   nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
-  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
-  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; } nav .site-name:hover { text-decoration: none; color: var(--accent); }
   .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
-  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
-  .nav-links a:hover { color: var(--accent); text-decoration: none; }
-  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; } .nav-links a:hover { color: var(--accent); text-decoration: none; } .nav-links a.active { color: var(--accent); font-weight: 600; }
   .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
   header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
-  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
-  header h1 .accent { color: var(--accent); }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; } header h1 .accent { color: var(--accent); }
   header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
   .breadcrumb { max-width: 820px; margin: 1rem auto 0; padding: 0 1.5rem; font-size: 0.85rem; color: var(--text-muted); }
   .breadcrumb a { color: var(--text-muted); } .breadcrumb a:hover { color: var(--accent); }
@@ -157,8 +131,7 @@
   .cta-box p { font-size: 0.95rem; margin-bottom: 0.75rem; }
   .cta-box a.btn { display: inline-block; background: #238636; color: #fff; padding: 0.6rem 1.5rem; border-radius: 6px; font-weight: 600; font-size: 0.95rem; text-decoration: none; }
   .cta-box a.btn:hover { background: #2ea043; text-decoration: none; }
-  .faq-item { border-bottom: 1px solid var(--border); padding: 1rem 0; }
-  .faq-item:last-child { border-bottom: none; }
+  .faq-item { border-bottom: 1px solid var(--border); padding: 1rem 0; } .faq-item:last-child { border-bottom: none; }
   .faq-item h3 { color: #f0f6fc; font-size: 1rem; margin-bottom: 0.5rem; cursor: default; }
   .faq-item p { color: var(--text); font-size: 0.95rem; margin-bottom: 0.5rem; }
   .network-footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 3rem; }
@@ -169,38 +142,16 @@
   @media (max-width: 600px) {
     header h1 { font-size: 1.5rem; } main { padding: 1.5rem 1rem; } .content-section { padding: 1.25rem; }
     nav { padding: 0.75rem 1rem; } .hamburger { display: block; }
-    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; }
-    .nav-links.open { display: flex; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0.75rem; padding-top: 0.75rem; } .nav-links.open { display: flex; }
   }
 </style>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Adequate Protection Payments in Bankruptcy" name="twitter:title"/>
-<meta content="Learn about adequate protection payments in bankruptcy | relieffromstay.org in our free 2026 guide. Clear explanations, real data, and pr..." name="twitter:description"/>
+<meta content="Relief from Stay for Cause - Section 362(d)(1)" name="twitter:title"/>
+<meta content="Learn about relief from stay for cause - section 362(d)(1) | relieffromstay.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://relieffromstay.org/og-image.svg" property="og:image"/>
 <meta content="https://relieffromstay.org/og-image.svg" name="twitter:image"/>
-<link href="https://relieffromstay.org/adequate-protection.html" hreflang="en" rel="alternate"/>
-<link href="https://relieffromstay.org/adequate-protection-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://relieffromstay.org/for-cause.html" hreflang="en" rel="alternate"/>
+<link href="https://relieffromstay.org/for-cause-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -211,107 +162,112 @@
 <a href="/">Home</a>
 <a href="/car-repo.html">Car Repo</a>
 <a href="/mortgage-foreclosure.html">Foreclosure</a>
-<a href="/for-cause.html">For Cause</a>
+<a class="active" href="/for-cause.html">For Cause</a>
 <a href="/lack-of-equity.html">Lack of Equity</a>
 <a href="/how-to-respond.html">Respond</a>
 <a href="/timeline.html">Timeline</a>
 </div>
 </nav>
 <header>
-<h1><span class="accent">Adequate Protection</span> Payments in Bankruptcy</h1>
-<p class="subtitle">Section 361 defines how debtors protect creditors' collateral value during bankruptcy - the key to keeping the automatic stay in place and defeating motions for relief.</p>
+<h1>Relief from Stay <span class="accent">for Cause</span></h1>
+<p class="subtitle"><a href="https://www.law.cornell.edu/uscode/text/11/362#d_0" rel="noopener" target="_blank">Section 362(d)</a>(1) is the broadest ground for lifting the automatic stay. "For cause, including the lack of adequate protection" - what that means and how to defend against it.</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.org">Home</a> » <a href="/">Relief from Stay</a> » <strong>Adequate Protection</strong>
+<a href="https://1328f.org">Home</a> » <a href="/">Relief from Stay</a> » <strong>For Cause</strong>
 </div>
 <main id="main-content">
 <div class="highlight-box success">
 <p><strong>Part of the Open Bankruptcy Project</strong> - free, open-source bankruptcy information. No ads, no lead generation, no strings attached.</p>
 </div>
 <div class="content-section">
-<h2>What Is Adequate Protection?</h2>
-<p>Adequate protection is one of the most important concepts in bankruptcy law. Under 11 U.S.C. Section 361, it is the mechanism that protects a secured creditor's interest in its collateral while the <a href="https://automaticstay.org">automatic stay</a> prevents the creditor from exercising its normal remedies.</p>
-<p>The basic principle is fairness: the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> benefits the debtor by halting collection activity, but it should not unfairly harm the creditor by allowing the collateral to lose value without compensation. Adequate protection bridges that gap. If the debtor provides adequate protection, the stay remains in place. If the debtor cannot or will not provide it, the creditor can obtain relief from stay under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(d)(1).</p>
-<p>Adequate protection comes into play in several contexts: motions for relief from stay, use of cash collateral in <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a>, and the debtor's use, sale, or lease of property under Section 363. In every context, the purpose is the same - ensure the creditor is not worse off because of the bankruptcy than it would be without it.</p>
+<h2>What Section 362(d)(1) Says</h2>
+<p><a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(d)(1) provides that the court shall grant relief from the <a href="https://automaticstay.org">automatic stay</a> "for cause, including the lack of adequate protection of an interest in property of such party in interest."</p>
+<p>Two critical words in this provision shape the entire analysis:</p>
+<ul>
+<li><strong>"Cause"</strong> - The Bankruptcy Code does not define this term. Courts have broad discretion to determine what constitutes cause on a case-by-case basis. This makes 362(d)(1) the most flexible and most commonly invoked ground for relief.</li>
+<li><strong>"Including"</strong> - Lack of adequate protection is just one example of cause, not an exhaustive definition. Courts have recognized many other forms of cause beyond inadequate protection.</li>
+</ul>
+<p>This open-ended standard gives courts wide latitude. Virtually any circumstance that makes it unfair to keep the stay in place can be argued as "cause." But the same flexibility that helps creditors also means there is no automatic formula - every case turns on its specific facts.</p>
 </div>
 <div class="content-section">
-<h2>Three Statutory Forms of Adequate Protection</h2>
-<p>Section 361 lists three forms that adequate protection can take:</p>
-<h3>1. Periodic Cash Payments - Section 361(1)</h3>
-<p>The most common form. The debtor makes regular payments to the creditor to offset any decrease in the value of the creditor's interest. For a depreciating asset like a vehicle, this typically means monthly payments covering interest plus depreciation. For real property, it usually means making the regular mortgage payment.</p>
-<p>The payments must be sufficient to compensate for the actual decline in value, not just a token amount. Courts look at the rate of depreciation, the interest accruing on the claim, and whether the debtor is maintaining insurance and preserving the property.</p>
-<h3>2. Additional or Replacement Lien - Section 361(2)</h3>
-<p>The debtor grants the creditor a lien on additional or replacement property to offset any decrease in the value of the original collateral. This is less common than cash payments but can be useful when the debtor has unencumbered assets available. For example, a business debtor whose equipment is depreciating might offer the creditor a lien on accounts receivable or inventory.</p>
-<p>The replacement lien must have real value. Courts will not accept a lien on assets that are already fully encumbered or that have no meaningful value.</p>
-<h3>3. Other Relief - Section 361(3)</h3>
-<p>A catch-all provision allowing any other form of protection that provides the creditor with the "indubitable equivalent" of its interest in the property. This phrase, borrowed from Judge Learned Hand's opinion in <em>In re Murel Holding Corp.</em>, 75 F.2d 941 (2d Cir. 1935), sets a high standard. The protection must be so certain and reliable that there is no reasonable doubt the creditor's interest is preserved.</p>
-<p>Examples include equity cushions (the property is worth significantly more than the debt, providing a buffer against depreciation), personal guarantees, and letters of credit.</p>
+<h2>Common Forms of "Cause"</h2>
+<p>Through decades of case law, courts have identified numerous circumstances that constitute cause under 362(d)(1):</p>
+<h3>Lack of Adequate Protection</h3>
+<p>The most common form of cause. The creditor's collateral is losing value (through depreciation, damage, or deterioration) and the debtor is not compensating the creditor for that loss. See our detailed guide on <a href="/adequate-protection.html">adequate protection</a> for the full analysis under Section 361.</p>
+<h3>Missed Post-Petition Payments</h3>
+<p>Failure to make payments on secured debt after filing bankruptcy is the single strongest factual basis for a 362(d)(1) motion. If you stop paying your mortgage or car payment after filing, the creditor can persuasively argue cause. Courts view post-petition defaults very seriously because they suggest the debtor cannot maintain the collateral or fund a reorganization.</p>
+<h3>Lack of Insurance</h3>
+<p>Allowing insurance to lapse on collateral puts the creditor at risk of total loss. A house fire, car accident, or equipment theft without insurance coverage eliminates the creditor's protection entirely. Courts consistently find this to be cause for relief.</p>
+<h3>Property Waste or Deterioration</h3>
+<p>If the debtor is damaging, neglecting, or dissipating the collateral, the creditor can seek relief. Examples include allowing a house to fall into disrepair, stripping parts from equipment, or failing to maintain property.</p>
+<h3>Bad Faith Filing</h3>
+<p>If the bankruptcy was filed primarily to delay or frustrate a specific creditor rather than for a legitimate bankruptcy purpose, courts may find cause for relief. Indicators of bad faith include filing on the eve of a foreclosure sale, filing multiple cases in succession, having no unsecured creditors or minimal debt, and having no realistic prospect of reorganization.</p>
+<h3>No Prospect of Reorganization</h3>
+<p>In <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a> or <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, if the debtor has no feasible plan and no reasonable likelihood of confirming one, continuing the stay serves no bankruptcy purpose. The creditor is being restrained without any corresponding benefit to the debtor's reorganization.</p>
+<h3>Debtor Misconduct</h3>
+<p>Hiding, transferring, or misusing the creditor's collateral. Using collateral in unauthorized ways. Refusing to provide information about the collateral's condition or location.</p>
 <div class="highlight-box warning">
-<p><strong>What adequate protection is NOT:</strong> Section 361(3) specifically provides that adequate protection cannot take the form of an administrative expense claim under Section 503(b)(1). The debtor cannot simply promise to pay the creditor at the end of the case. The protection must be tangible and current.</p>
+<p><strong>The catch-all nature of "cause":</strong> Because cause is undefined, creative creditors' attorneys can argue almost any negative fact pattern constitutes cause. The debtor's best defense is always to address the underlying issue - make the payments, get insurance, maintain the property - rather than relying on technical arguments about what "cause" means.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>Calculating Adequate Protection Payments</h2>
-<p>The amount of adequate protection depends on the type of collateral and the specific facts of the case. Courts generally consider these factors:</p>
-<h3>For Vehicles</h3>
+<h2>Burden of Proof Under Section 362(g)</h2>
+<p>The burden of proof in a relief from stay proceeding is split by statute:</p>
 <ul>
-<li><strong>Monthly depreciation</strong> - The decline in value based on the vehicle's age, make, model, and mileage. A newer vehicle depreciates faster in dollar terms.</li>
-<li><strong>Interest on the claim</strong> - The contractual or market interest rate applied to the outstanding loan balance.</li>
-<li><strong>Insurance</strong> - The debtor must maintain comprehensive and collision insurance. Failure to insure is itself grounds for relief from stay.</li>
+<li><strong>The creditor</strong> bears the burden of proof on the issue of whether the debtor has equity in the property (relevant to 362(d)(2), but sometimes raised in a combined motion).</li>
+<li><strong>The debtor</strong> bears the burden of proof on all other issues, including whether cause exists under 362(d)(1).</li>
 </ul>
-<p>In practice, many courts simply require the debtor to make the regular contractual car payment as adequate protection. This is a practical approximation that avoids complex depreciation calculations.</p>
-<h3>For Real Property (Mortgages)</h3>
-<ul>
-<li><strong>Regular monthly payment</strong> - For a mortgage, adequate protection typically means making the regular monthly payment (principal, interest, taxes, and insurance - PITI).</li>
-<li><strong>Property maintenance</strong> - The debtor must maintain the property in reasonable condition. Allowing the property to fall into disrepair reduces its value and can constitute a failure of adequate protection.</li>
-<li><strong>Insurance and taxes</strong> - The debtor must keep hazard insurance current and pay property taxes (or escrow them into the payment).</li>
-</ul>
-<h3>For Business Equipment</h3>
-<ul>
-<li><strong>Depreciation rate</strong> - Business equipment may depreciate at different rates depending on use, industry standards, and the equipment's remaining useful life.</li>
-<li><strong>Maintenance and insurance</strong> - The debtor must maintain and insure the equipment.</li>
-<li><strong>Revenue generation</strong> - If the equipment is producing income that will fund plan payments, this factor weighs in favor of finding adequate protection.</li>
-</ul>
+<p>This burden allocation has practical consequences. Once the creditor presents a basic factual showing of cause - "the debtor has missed three payments" or "the debtor has no insurance" - the burden shifts to the debtor to demonstrate why the stay should remain in place. Simply denying the creditor's allegations is not enough. The debtor must present affirmative evidence or a concrete proposal to address the creditor's concerns.</p>
 <div class="highlight-box">
-<p><strong>The equity cushion:</strong> If the property is worth significantly more than the debt, the excess equity itself may provide adequate protection. For example, if a home is worth $300,000 and the mortgage balance is $200,000, the $100,000 equity cushion protects the lender against some depreciation even without monthly payments. The size of the cushion required varies by jurisdiction, but a substantial equity cushion can defeat a relief from stay motion on its own.</p>
+<p><strong>Practical impact:</strong> Because the debtor bears the burden on cause, showing up to the hearing without evidence or a plan is nearly certain to result in the motion being granted. Come prepared with proof of payments, proof of insurance, and a concrete proposal for <a href="/adequate-protection.html">adequate protection</a> going forward.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>When Adequate Protection Is Required</h2>
-<p>Adequate protection obligations arise in several specific contexts:</p>
+<h2>Defending Against a 362(d)(1) Motion</h2>
+<p>The best defenses match the specific form of "cause" alleged:</p>
+<h3>If the Issue Is Missed Payments</h3>
 <ul>
-<li><strong>To prevent relief from stay</strong> - The most common context. Under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(d)(1), "lack of adequate protection" is the primary example of "cause" for lifting the stay. If you are providing adequate protection, the creditor's motion should fail.</li>
-<li><strong>Use of cash collateral</strong> - In <a href="https://section1191.org/" title="Chapter 11">Chapter 11</a>, the debtor must provide adequate protection to use cash collateral (Section 363(c)(2)). Cash collateral includes bank accounts, rents, and proceeds from collateral.</li>
-<li><strong>Use, sale, or lease of property</strong> - Under Section 363(e), any party with an interest in property can request adequate protection as a condition of the debtor's use of that property.</li>
-<li><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> <a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a></strong> - Under <a href="https://chapter13plan.org/secured-debts.html">Section 1325(a)(5)(B)</a>, the debtor's plan must provide adequate protection of each secured creditor's interest as a condition of confirmation.</li>
+<li>Propose <a href="/adequate-protection.html">adequate protection payments</a> going forward and commit to a specific start date.</li>
+<li>If you have already caught up on missed payments, bring proof of the payments made.</li>
+<li>If your <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> provides for the creditor's claim, point the court to the plan provisions.</li>
 </ul>
+<h3>If the Issue Is Insurance</h3>
+<ul>
+<li>Obtain insurance immediately and bring the declarations page to the hearing.</li>
+<li>If the lapse was temporary and unintentional, explain the circumstances and show reinstatement.</li>
+</ul>
+<h3>If the Issue Is Bad Faith</h3>
+<ul>
+<li>Demonstrate legitimate bankruptcy purpose: unsecured debts being discharged, income freed up for plan payments, meaningful reorganization in progress.</li>
+<li>Show the court that the case is not just about one creditor - there are other debts, other creditors, and a genuine financial <a href="https://bankruptcyfreshstart.org" rel="noopener" target="_blank" title="Fresh Start After Bankruptcy - Open Bankruptcy Project">fresh start</a> at stake.</li>
+</ul>
+<h3>If the Issue Is No Prospect of Reorganization</h3>
+<ul>
+<li>File a plan (or show the court a filed plan) that demonstrates a feasible path to reorganization.</li>
+<li>Present income evidence showing you can fund the plan.</li>
+<li>If <a href="https://chapter13plan.org/" title="confirmation">plan confirmation</a> is imminent, ask for a brief continuance to allow confirmation to occur.</li>
+</ul>
+<p>For a complete step-by-step guide, see <a href="/how-to-respond.html">How to Respond to a Motion for Relief from Stay</a>.</p>
 </div>
 <div class="content-section">
-<h2>Failure of Adequate Protection</h2>
-<p>If the debtor fails to provide adequate protection, the consequences can be severe:</p>
-<ul>
-<li><strong>Relief from stay granted</strong> - The creditor can repossess, foreclose, or otherwise enforce its lien.</li>
-<li><strong>Superpriority claim</strong> - Under Section 507(b), if adequate protection proves inadequate (the creditor's collateral declines in value despite adequate protection payments), the creditor receives a superpriority administrative expense claim. This claim has priority over all other administrative expenses, including attorney fees and trustee commissions.</li>
-<li><strong>Loss of the asset</strong> - In practical terms, failing to provide adequate protection almost always results in losing the collateral, which can derail a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> or Chapter 11 reorganization.</li>
-</ul>
-<div class="highlight-box danger">
-<p><strong>The superpriority trap:</strong> If the court orders adequate protection and the collateral still loses value, the creditor gets a Section 507(b) superpriority claim for the shortfall. This claim jumps ahead of all other administrative expenses in the case. In Chapter 11, this can consume estate assets that would otherwise fund the reorganization.</p>
-</div>
+<h2>Connection to Automatic Stay Violations</h2>
+<p>It is important to distinguish between a creditor properly seeking relief from stay and a creditor that acts without court permission. Under <a href="https://automaticstay.org/violations.html">Section 362(k)</a>, a creditor that willfully violates the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> is liable for actual damages, including costs and attorney fees, and in appropriate cases, punitive damages.</p>
+<p>A creditor must first obtain a court order granting relief from stay before taking any action against the debtor or the property. Filing the motion is not enough - the creditor must wait for the court's ruling. A creditor that repossesses a car or proceeds with foreclosure before the court grants relief is violating the stay, even if the creditor has strong grounds for relief.</p>
 </div>
 <!-- FAQ -->
 <div class="content-section" id="faq">
 <h2>Frequently Asked Questions</h2>
 <div class="faq-item">
-<h3>What is adequate protection in bankruptcy?</h3>
-<p>Adequate protection under 11 U.S.C. Section 361 is the mechanism that protects a secured creditor's interest in collateral during a bankruptcy case. It compensates the creditor for any decrease in the value of their collateral caused by the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>. The three statutory forms are periodic cash payments, additional or replacement liens, and other relief providing the indubitable equivalent of the creditor's interest.</p>
+<h3>What counts as cause for relief from stay under 362(d)(1)?</h3>
+<p>The Bankruptcy Code does not define "cause." Courts have found cause in many situations, including: failure to make post-petition payments, lack of insurance on collateral, property deterioration or waste, bad faith filing, no reasonable prospect of reorganization, and repeated defaults despite prior agreements. Lack of adequate protection is the most commonly cited form of cause.</p>
 </div>
 <div class="faq-item">
-<h3>How much are adequate protection payments for a car?</h3>
-<p>For a vehicle, adequate protection payments typically equal the monthly depreciation of the vehicle plus interest accruing on the loan. In practice, many courts simply require the debtor to make the regular contractual car payment. The exact amount depends on the vehicle's age, mileage, condition, and the interest rate on the loan. Maintaining insurance on the vehicle is also considered part of adequate protection.</p>
+<h3>Who has the burden of proof for "cause" under 362(d)(1)?</h3>
+<p>Under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(g), the burden of proof is split. The creditor bears the burden on the issue of the debtor's equity in property. On all other issues - including whether cause exists - the party opposing relief (the debtor) bears the burden. This means once the creditor raises a colorable argument for cause, the debtor must affirmatively show why the stay should remain in effect.</p>
 </div>
 <div class="faq-item">
-<h3>What happens if I stop making adequate protection payments?</h3>
-<p>If you fail to make adequate protection payments, the creditor can file a motion for relief from stay under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(d)(1), arguing that its interest is no longer adequately protected. Courts routinely grant these motions when the debtor has stopped making payments. If a consent order already requires adequate protection payments, the creditor may be able to act without a new hearing by invoking the automatic relief provision in the consent order.</p>
+<h3>Can bad faith filing be considered cause for lifting the stay?</h3>
+<p>Yes. If the court finds that the bankruptcy was filed primarily to delay a creditor rather than for a legitimate bankruptcy purpose, the filing may be considered "bad faith" and constitute cause for relief from stay. Courts look at factors such as the timing of the filing, the debtor's history of filings, whether the debtor has any realistic reorganization plan, and whether the case was filed on the eve of a foreclosure or other creditor action.</p>
 </div>
 </div>
 <div class="cta-box">
@@ -373,8 +329,8 @@
 <div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
-<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=relieffromstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=relieffromstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=relieffromstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://openbankruptcyproject.org/?utm_source=relieffromstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Open Bankruptcy Project</a> <span style="color:#7d8590;font-size:0.8rem">-- openbankruptcyproject.org</span></li>
 </ul>
 </div>
@@ -398,7 +354,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=relieffromstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=relieffromstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=relieffromstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
